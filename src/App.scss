@@ -1,0 +1,11 @@
+@import "./sass/colors";
+@import "./sass/mixins";
+
+.App {
+  @include flex-alignable();
+
+  background-color: $background-clr;
+  color: $primary-clr;
+  height: 100vh;
+}
+
