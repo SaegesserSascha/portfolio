@@ -1,2 +1,2 @@
 # portfolio
- Portfolio website
+ A Portfolio website made with React.js and Sass
