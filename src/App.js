@@ -1,9 +1,10 @@
 import './App.scss';
+import TypographyTest from "./TypographyTest";
 
 function App() {
   return (
     <div className="App">
-      Hello World
+      <TypographyTest />
     </div>
   );
 }
