@@ -1,0 +1,45 @@
+@import "../../sass/colors"; 
+
+.main-nav {
+  background-color: $clr-neutral-normal;
+  display: flex;
+  flex-direction: column;
+  width: 64px;
+  
+  & li,
+  & a {
+    align-items: center;
+    color: $clr-white-50;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    &:hover {
+      color: $clr-white;
+    }
+  }
+
+  & li {
+    cursor: pointer;
+    height: 64px;
+
+    &:hover {
+      background-color: $clr-neutral-light;
+    }
+  }
+
+  & a {
+    height: 64px;
+    text-decoration: none;
+    width: inherit;
+
+    &.selected {
+      color: $clr-primary-light;
+    }
+  }
+
+  & p {
+    font-size: 62.5%;
+    margin-top: .25em;
+  }
+}
