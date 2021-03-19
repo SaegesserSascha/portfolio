@@ -1,10 +1,10 @@
 import './App.scss';
-import TypographyTest from "./TypographyTest";
+import Navigation from "./components/navigation/Navigation";
 
 function App() {
   return (
     <div className="App">
-      <TypographyTest />
+      <Navigation />
     </div>
   );
 }
