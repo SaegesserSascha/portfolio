@@ -1,11 +1,16 @@
 @import "./sass/reset";
 @import "./sass/colors";
-@import "./sass/mixins";
-@import "./sass/typography";
+@import "./sass/breakpoints";
 
 .App {
   background-color: $clr-neutral-dark;
   color: $clr-white-90;
   display: flex;
+  flex-direction: column;
+
+  @include mq(s) {
+    flex-direction: initial;
+  }
+
   min-height: 100vh;
 }

@@ -1,0 +1,40 @@
+@import "../../sass/breakpoints";
+
+.logo-wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: flex-start;
+  height: 64px;
+  width: 100vw;
+
+  @include mq(s) {
+    justify-content: center;
+    width: initial;
+  }
+
+  & div {
+    align-items: center;
+    display: flex;
+    height: 64px;
+    justify-content: center;
+    width: 64px;
+  }
+
+  & img {
+    max-width: calc(64px - 1em);
+  }
+
+  & h3 {
+    @include mq(s) {
+      display: none;
+    }
+  }
+}
+
+.logo-wrapper-inflated {
+  justify-content: flex-start;
+
+  & h3 {
+    display: block;
+  }
+}

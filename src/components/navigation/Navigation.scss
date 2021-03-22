@@ -1,19 +1,36 @@
-@import "../../sass/colors"; 
+@import "../../sass/colors";
+@import "../../sass/breakpoints";
 
 .main-nav {
   background-color: $clr-neutral-normal;
-  display: flex;
-  flex-direction: column;
-  height: 100vh;
-  width: 64px;
+
+  @include mq(s) {
+    height: 100vh;
+    width: 64px;
+  }
+
+  & ul {
+    display: flex;
+    flex-wrap: wrap;
+
+    @include mq(s) {
+      flex-direction: column;
+    }
+  }
   
   & li,
   & a {
     align-items: center;
     color: $clr-white-50;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
+    width: 100vw;
+
+    @include mq(s) {
+      flex-direction: column;
+      justify-content: center;
+      width: initial;
+    }
 
     &:hover {
       color: $clr-white;
@@ -29,6 +46,14 @@
     }
   }
 
+  & li:not(:first-of-type) {
+    display: none;
+
+    @include mq(s) {
+      display: initial;
+    }
+  }
+
   & a {
     height: 64px;
     text-decoration: none;
@@ -39,17 +64,52 @@
     }
   }
 
+  & div {
+    display: flex;
+    justify-content: center;
+    width: 64px;
+  }
+
   & p {
-    font-size: 62.5%;
-    margin-top: .25em;
+    @include mq(s) {
+      font-size: 62.5%;
+      margin-top: .25em;
+    }
+  }
+}
+
+.main-nav-collapser {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-width: 64px;
+
+  @include mq(s) {
+    max-width: 256px;
+    position: initial;
   }
 }
 
 .inflated-main-nav {
-  width: 256px;
+  height: 100vh;
+  width: 100vw;
 
-  & li {
-    align-items: flex-start;
+  @include mq(s) {
+    width: 256px;
+    
+    & li {
+      align-items: flex-start;
+  
+      & div {
+        display: flex;
+        justify-content: center;
+        width: 64px;
+      }
+    }
+  }
+
+  & li:not(:first-of-type) {
+    display: flex;
   }
 
   & a {
@@ -61,11 +121,5 @@
   & p {
     font-size: initial;
     margin: initial;
-  }
-
-  & div {
-    display: flex;
-    justify-content: center;
-    width: 64px;
   }
 }

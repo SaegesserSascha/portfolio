@@ -2,7 +2,7 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import "../navigation.scss";
 
-export default function NavigationItem({ path, name, icon }) {
+export default function NavigationItem({ path, name, icon, collapser }) {
   return (
     <li>
       <NavLink
