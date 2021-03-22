@@ -2,20 +2,22 @@ import React, { useEffect, useState } from "react";
 import "../navigation.scss";
 import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 
-export default function NavigationToggler() {
+export default function NavigationToggler({ collapser }) {
   const [isCollapsed, setIsCollapsed] = useState(true);
 
-  function handleToggler() {
+  function handleCollapser() {
     setIsCollapsed(!isCollapsed);
   }
 
   useEffect(() => {
-    // TODO Change Navigation width and flex-direction based on isCollapsed state
-  }, [isCollapsed]);
+    collapser(isCollapsed);
+  }, [isCollapsed, collapser]);
 
   return (
-    <li onClick={handleToggler}>
-      {isCollapsed ? <MdNavigateNext size={56} /> : <MdNavigateBefore size={56} />}
+    <li onClick={handleCollapser}>
+      <div>
+        {isCollapsed ? <MdNavigateNext size={56} /> : <MdNavigateBefore size={56} />}
+      </div>
     </li>
   );
 }

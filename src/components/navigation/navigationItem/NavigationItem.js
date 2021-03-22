@@ -9,7 +9,7 @@ export default function NavigationItem({ path, name, icon }) {
         to={path}
         activeClassName="selected"
       >
-        <div>{icon}</div>
+        <div className="main-nav-icon">{icon}</div>
         <p>{name}</p>
       </NavLink>
     </li>

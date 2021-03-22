@@ -6,5 +6,6 @@
 .App {
   background-color: $clr-neutral-dark;
   color: $clr-white-90;
+  display: flex;
   min-height: 100vh;
 }

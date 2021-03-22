@@ -4,6 +4,7 @@
   background-color: $clr-neutral-normal;
   display: flex;
   flex-direction: column;
+  height: 100vh;
   width: 64px;
   
   & li,
@@ -41,5 +42,30 @@
   & p {
     font-size: 62.5%;
     margin-top: .25em;
+  }
+}
+
+.inflated-main-nav {
+  width: 256px;
+
+  & li {
+    align-items: flex-start;
+  }
+
+  & a {
+    flex-direction: initial;
+    justify-content: flex-start;
+    width: 100%;
+  }
+
+  & p {
+    font-size: initial;
+    margin: initial;
+  }
+
+  & div {
+    display: flex;
+    justify-content: center;
+    width: 64px;
   }
 }

@@ -13,7 +13,7 @@ export const routes = [
   {
     path: "/about",
     component: About,
-    name: "About",
+    name: "About Me",
     icon: <BsPersonFill size={28} />
   },
   {
