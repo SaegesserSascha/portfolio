@@ -1,8 +1,11 @@
 import "./forms.scss";
-import React from "react";
+import Form from "components/form/Form";
 
 export default function Forms() {
   return (
-    <h1>Forms</h1>
+    <div>
+      <h1>Forms</h1>
+      <Form />
+    </div>
   );
 }
