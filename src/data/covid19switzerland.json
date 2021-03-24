@@ -1,0 +1,3539 @@
+{
+  "data": [
+    {
+      "date": "2/24/20",
+      "cases": "1",
+      "casesCumulative": "1",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "5"
+    },
+    {
+      "date": "2/25/20",
+      "cases": "1",
+      "casesCumulative": "2",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "9"
+    },
+    {
+      "date": "2/26/20",
+      "cases": "10",
+      "casesCumulative": "12",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "18"
+    },
+    {
+      "date": "2/27/20",
+      "cases": "10",
+      "casesCumulative": "22",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "23"
+    },
+    {
+      "date": "2/28/20",
+      "cases": "10",
+      "casesCumulative": "32",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "28"
+    },
+    {
+      "date": "2/29/20",
+      "cases": "13",
+      "casesCumulative": "45",
+      "hospitalizations": "14",
+      "hospitalizationsCumulative": "42"
+    },
+    {
+      "date": "3/1/20",
+      "cases": "11",
+      "casesCumulative": "56",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "52"
+    },
+    {
+      "date": "3/2/20",
+      "cases": "31",
+      "casesCumulative": "87",
+      "hospitalizations": "14",
+      "hospitalizationsCumulative": "66"
+    },
+    {
+      "date": "3/3/20",
+      "cases": "33",
+      "casesCumulative": "120",
+      "hospitalizations": "17",
+      "hospitalizationsCumulative": "83"
+    },
+    {
+      "date": "3/4/20",
+      "cases": "61",
+      "casesCumulative": "181",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "96"
+    },
+    {
+      "date": "3/5/20",
+      "cases": "62",
+      "casesCumulative": "243",
+      "hospitalizations": "18",
+      "hospitalizationsCumulative": "114",
+      "mortality": "2",
+      "mortalityCumulative": "2"
+    },
+    {
+      "date": "3/6/20",
+      "cases": "73",
+      "casesCumulative": "316",
+      "hospitalizations": "24",
+      "hospitalizationsCumulative": "138",
+      "mortality": "0",
+      "mortalityCumulative": "2"
+    },
+    {
+      "date": "3/7/20",
+      "cases": "49",
+      "casesCumulative": "365",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "146",
+      "mortality": "0",
+      "mortalityCumulative": "2"
+    },
+    {
+      "date": "3/8/20",
+      "cases": "68",
+      "casesCumulative": "433",
+      "hospitalizations": "18",
+      "hospitalizationsCumulative": "164",
+      "mortality": "1",
+      "mortalityCumulative": "3"
+    },
+    {
+      "date": "3/9/20",
+      "cases": "192",
+      "casesCumulative": "625",
+      "hospitalizations": "29",
+      "hospitalizationsCumulative": "193",
+      "mortality": "0",
+      "mortalityCumulative": "3"
+    },
+    {
+      "date": "3/10/20",
+      "cases": "212",
+      "casesCumulative": "837",
+      "hospitalizations": "42",
+      "hospitalizationsCumulative": "235",
+      "mortality": "2",
+      "mortalityCumulative": "5"
+    },
+    {
+      "date": "3/11/20",
+      "cases": "334",
+      "casesCumulative": "1171",
+      "hospitalizations": "49",
+      "hospitalizationsCumulative": "284",
+      "mortality": "3",
+      "mortalityCumulative": "8"
+    },
+    {
+      "date": "3/12/20",
+      "cases": "357",
+      "casesCumulative": "1528",
+      "hospitalizations": "52",
+      "hospitalizationsCumulative": "336",
+      "mortality": "4",
+      "mortalityCumulative": "12"
+    },
+    {
+      "date": "3/13/20",
+      "cases": "433",
+      "casesCumulative": "1961",
+      "hospitalizations": "56",
+      "hospitalizationsCumulative": "392",
+      "mortality": "3",
+      "mortalityCumulative": "15"
+    },
+    {
+      "date": "3/14/20",
+      "cases": "420",
+      "casesCumulative": "2381",
+      "hospitalizations": "65",
+      "hospitalizationsCumulative": "457",
+      "mortality": "5",
+      "mortalityCumulative": "20"
+    },
+    {
+      "date": "3/15/20",
+      "cases": "328",
+      "casesCumulative": "2709",
+      "hospitalizations": "55",
+      "hospitalizationsCumulative": "512",
+      "mortality": "8",
+      "mortalityCumulative": "28"
+    },
+    {
+      "date": "3/16/20",
+      "cases": "1065",
+      "casesCumulative": "3774",
+      "hospitalizations": "120",
+      "hospitalizationsCumulative": "632",
+      "mortality": "7",
+      "mortalityCumulative": "35"
+    },
+    {
+      "date": "3/17/20",
+      "cases": "1088",
+      "casesCumulative": "4862",
+      "hospitalizations": "98",
+      "hospitalizationsCumulative": "730",
+      "mortality": "12",
+      "mortalityCumulative": "47"
+    },
+    {
+      "date": "3/18/20",
+      "cases": "1214",
+      "casesCumulative": "6076",
+      "hospitalizations": "112",
+      "hospitalizationsCumulative": "842",
+      "mortality": "8",
+      "mortalityCumulative": "55"
+    },
+    {
+      "date": "3/19/20",
+      "cases": "837",
+      "casesCumulative": "6913",
+      "hospitalizations": "110",
+      "hospitalizationsCumulative": "952",
+      "mortality": "14",
+      "mortalityCumulative": "69"
+    },
+    {
+      "date": "3/20/20",
+      "cases": "1147",
+      "casesCumulative": "8060",
+      "hospitalizations": "143",
+      "hospitalizationsCumulative": "1095",
+      "mortality": "21",
+      "mortalityCumulative": "90"
+    },
+    {
+      "date": "3/21/20",
+      "cases": "693",
+      "casesCumulative": "8753",
+      "hospitalizations": "118",
+      "hospitalizationsCumulative": "1213",
+      "mortality": "19",
+      "mortalityCumulative": "109"
+    },
+    {
+      "date": "3/22/20",
+      "cases": "548",
+      "casesCumulative": "9301",
+      "hospitalizations": "135",
+      "hospitalizationsCumulative": "1348",
+      "mortality": "18",
+      "mortalityCumulative": "127"
+    },
+    {
+      "date": "3/23/20",
+      "cases": "1464",
+      "casesCumulative": "10765",
+      "hospitalizations": "163",
+      "hospitalizationsCumulative": "1511",
+      "mortality": "23",
+      "mortalityCumulative": "150"
+    },
+    {
+      "date": "3/24/20",
+      "cases": "1243",
+      "casesCumulative": "12008",
+      "hospitalizations": "181",
+      "hospitalizationsCumulative": "1692",
+      "mortality": "19",
+      "mortalityCumulative": "169"
+    },
+    {
+      "date": "3/25/20",
+      "cases": "1073",
+      "casesCumulative": "13081",
+      "hospitalizations": "200",
+      "hospitalizationsCumulative": "1892",
+      "mortality": "39",
+      "mortalityCumulative": "208"
+    },
+    {
+      "date": "3/26/20",
+      "cases": "1118",
+      "casesCumulative": "14199",
+      "hospitalizations": "165",
+      "hospitalizationsCumulative": "2057",
+      "mortality": "38",
+      "mortalityCumulative": "246"
+    },
+    {
+      "date": "3/27/20",
+      "cases": "1308",
+      "casesCumulative": "15507",
+      "hospitalizations": "210",
+      "hospitalizationsCumulative": "2267",
+      "mortality": "32",
+      "mortalityCumulative": "278"
+    },
+    {
+      "date": "3/28/20",
+      "cases": "723",
+      "casesCumulative": "16230",
+      "hospitalizations": "123",
+      "hospitalizationsCumulative": "2390",
+      "mortality": "57",
+      "mortalityCumulative": "335"
+    },
+    {
+      "date": "3/29/20",
+      "cases": "434",
+      "casesCumulative": "16664",
+      "hospitalizations": "122",
+      "hospitalizationsCumulative": "2512",
+      "mortality": "46",
+      "mortalityCumulative": "381"
+    },
+    {
+      "date": "3/30/20",
+      "cases": "1311",
+      "casesCumulative": "17975",
+      "hospitalizations": "167",
+      "hospitalizationsCumulative": "2679",
+      "mortality": "58",
+      "mortalityCumulative": "439"
+    },
+    {
+      "date": "3/31/20",
+      "cases": "1138",
+      "casesCumulative": "19113",
+      "hospitalizations": "126",
+      "hospitalizationsCumulative": "2805",
+      "mortality": "44",
+      "mortalityCumulative": "483"
+    },
+    {
+      "date": "4/1/20",
+      "cases": "1016",
+      "casesCumulative": "20129",
+      "hospitalizations": "97",
+      "hospitalizationsCumulative": "2902",
+      "mortality": "57",
+      "mortalityCumulative": "540"
+    },
+    {
+      "date": "4/2/20",
+      "cases": "878",
+      "casesCumulative": "21007",
+      "hospitalizations": "96",
+      "hospitalizationsCumulative": "2998",
+      "mortality": "60",
+      "mortalityCumulative": "600"
+    },
+    {
+      "date": "4/3/20",
+      "cases": "928",
+      "casesCumulative": "21935",
+      "hospitalizations": "75",
+      "hospitalizationsCumulative": "3073",
+      "mortality": "57",
+      "mortalityCumulative": "657"
+    },
+    {
+      "date": "4/4/20",
+      "cases": "486",
+      "casesCumulative": "22421",
+      "hospitalizations": "58",
+      "hospitalizationsCumulative": "3131",
+      "mortality": "56",
+      "mortalityCumulative": "713"
+    },
+    {
+      "date": "4/5/20",
+      "cases": "281",
+      "casesCumulative": "22702",
+      "hospitalizations": "50",
+      "hospitalizationsCumulative": "3181",
+      "mortality": "50",
+      "mortalityCumulative": "763"
+    },
+    {
+      "date": "4/6/20",
+      "cases": "925",
+      "casesCumulative": "23627",
+      "hospitalizations": "71",
+      "hospitalizationsCumulative": "3252",
+      "mortality": "50",
+      "mortalityCumulative": "813"
+    },
+    {
+      "date": "4/7/20",
+      "cases": "715",
+      "casesCumulative": "24342",
+      "hospitalizations": "57",
+      "hospitalizationsCumulative": "3309",
+      "mortality": "57",
+      "mortalityCumulative": "870"
+    },
+    {
+      "date": "4/8/20",
+      "cases": "613",
+      "casesCumulative": "24955",
+      "hospitalizations": "59",
+      "hospitalizationsCumulative": "3368",
+      "mortality": "58",
+      "mortalityCumulative": "928"
+    },
+    {
+      "date": "4/9/20",
+      "cases": "560",
+      "casesCumulative": "25515",
+      "hospitalizations": "58",
+      "hospitalizationsCumulative": "3426",
+      "mortality": "45",
+      "mortalityCumulative": "973"
+    },
+    {
+      "date": "4/10/20",
+      "cases": "309",
+      "casesCumulative": "25824",
+      "hospitalizations": "42",
+      "hospitalizationsCumulative": "3468",
+      "mortality": "52",
+      "mortalityCumulative": "1025"
+    },
+    {
+      "date": "4/11/20",
+      "cases": "261",
+      "casesCumulative": "26085",
+      "hospitalizations": "43",
+      "hospitalizationsCumulative": "3511",
+      "mortality": "45",
+      "mortalityCumulative": "1070"
+    },
+    {
+      "date": "4/12/20",
+      "cases": "219",
+      "casesCumulative": "26304",
+      "hospitalizations": "33",
+      "hospitalizationsCumulative": "3544",
+      "mortality": "36",
+      "mortalityCumulative": "1106"
+    },
+    {
+      "date": "4/13/20",
+      "cases": "245",
+      "casesCumulative": "26549",
+      "hospitalizations": "27",
+      "hospitalizationsCumulative": "3571",
+      "mortality": "36",
+      "mortalityCumulative": "1142"
+    },
+    {
+      "date": "4/14/20",
+      "cases": "424",
+      "casesCumulative": "26973",
+      "hospitalizations": "52",
+      "hospitalizationsCumulative": "3623",
+      "mortality": "37",
+      "mortalityCumulative": "1179"
+    },
+    {
+      "date": "4/15/20",
+      "cases": "328",
+      "casesCumulative": "27301",
+      "hospitalizations": "32",
+      "hospitalizationsCumulative": "3655",
+      "mortality": "38",
+      "mortalityCumulative": "1217"
+    },
+    {
+      "date": "4/16/20",
+      "cases": "321",
+      "casesCumulative": "27622",
+      "hospitalizations": "38",
+      "hospitalizationsCumulative": "3693",
+      "mortality": "38",
+      "mortalityCumulative": "1255"
+    },
+    {
+      "date": "4/17/20",
+      "cases": "291",
+      "casesCumulative": "27913",
+      "hospitalizations": "32",
+      "hospitalizationsCumulative": "3725",
+      "mortality": "36",
+      "mortalityCumulative": "1291"
+    },
+    {
+      "date": "4/18/20",
+      "cases": "145",
+      "casesCumulative": "28058",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "3738",
+      "mortality": "34",
+      "mortalityCumulative": "1325"
+    },
+    {
+      "date": "4/19/20",
+      "cases": "87",
+      "casesCumulative": "28145",
+      "hospitalizations": "24",
+      "hospitalizationsCumulative": "3762",
+      "mortality": "21",
+      "mortalityCumulative": "1346"
+    },
+    {
+      "date": "4/20/20",
+      "cases": "277",
+      "casesCumulative": "28422",
+      "hospitalizations": "23",
+      "hospitalizationsCumulative": "3785",
+      "mortality": "38",
+      "mortalityCumulative": "1384"
+    },
+    {
+      "date": "4/21/20",
+      "cases": "213",
+      "casesCumulative": "28635",
+      "hospitalizations": "19",
+      "hospitalizationsCumulative": "3804",
+      "mortality": "33",
+      "mortalityCumulative": "1417"
+    },
+    {
+      "date": "4/22/20",
+      "cases": "155",
+      "casesCumulative": "28790",
+      "hospitalizations": "21",
+      "hospitalizationsCumulative": "3825",
+      "mortality": "27",
+      "mortalityCumulative": "1444"
+    },
+    {
+      "date": "4/23/20",
+      "cases": "208",
+      "casesCumulative": "28998",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "3834",
+      "mortality": "31",
+      "mortalityCumulative": "1475"
+    },
+    {
+      "date": "4/24/20",
+      "cases": "167",
+      "casesCumulative": "29165",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "3847",
+      "mortality": "27",
+      "mortalityCumulative": "1502"
+    },
+    {
+      "date": "4/25/20",
+      "cases": "87",
+      "casesCumulative": "29252",
+      "hospitalizations": "15",
+      "hospitalizationsCumulative": "3862",
+      "mortality": "25",
+      "mortalityCumulative": "1527"
+    },
+    {
+      "date": "4/26/20",
+      "cases": "61",
+      "casesCumulative": "29313",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "3868",
+      "mortality": "13",
+      "mortalityCumulative": "1540"
+    },
+    {
+      "date": "4/27/20",
+      "cases": "173",
+      "casesCumulative": "29486",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "3881",
+      "mortality": "23",
+      "mortalityCumulative": "1563"
+    },
+    {
+      "date": "4/28/20",
+      "cases": "153",
+      "casesCumulative": "29639",
+      "hospitalizations": "15",
+      "hospitalizationsCumulative": "3896",
+      "mortality": "12",
+      "mortalityCumulative": "1575"
+    },
+    {
+      "date": "4/29/20",
+      "cases": "120",
+      "casesCumulative": "29759",
+      "hospitalizations": "11",
+      "hospitalizationsCumulative": "3907",
+      "mortality": "11",
+      "mortalityCumulative": "1586"
+    },
+    {
+      "date": "4/30/20",
+      "cases": "101",
+      "casesCumulative": "29860",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "3911",
+      "mortality": "14",
+      "mortalityCumulative": "1600"
+    },
+    {
+      "date": "5/1/20",
+      "cases": "83",
+      "casesCumulative": "29943",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "3918",
+      "mortality": "12",
+      "mortalityCumulative": "1612"
+    },
+    {
+      "date": "5/2/20",
+      "cases": "47",
+      "casesCumulative": "29990",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "3925",
+      "mortality": "9",
+      "mortalityCumulative": "1621"
+    },
+    {
+      "date": "5/3/20",
+      "cases": "22",
+      "casesCumulative": "30012",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "3932",
+      "mortality": "8",
+      "mortalityCumulative": "1629"
+    },
+    {
+      "date": "5/4/20",
+      "cases": "90",
+      "casesCumulative": "30102",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "3936",
+      "mortality": "9",
+      "mortalityCumulative": "1638"
+    },
+    {
+      "date": "5/5/20",
+      "cases": "73",
+      "casesCumulative": "30175",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "3942",
+      "mortality": "10",
+      "mortalityCumulative": "1648"
+    },
+    {
+      "date": "5/6/20",
+      "cases": "79",
+      "casesCumulative": "30254",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3945",
+      "mortality": "4",
+      "mortalityCumulative": "1652"
+    },
+    {
+      "date": "5/7/20",
+      "cases": "46",
+      "casesCumulative": "30300",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "3952",
+      "mortality": "12",
+      "mortalityCumulative": "1664"
+    },
+    {
+      "date": "5/8/20",
+      "cases": "59",
+      "casesCumulative": "30359",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3955",
+      "mortality": "7",
+      "mortalityCumulative": "1671"
+    },
+    {
+      "date": "5/9/20",
+      "cases": "39",
+      "casesCumulative": "30398",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "3957",
+      "mortality": "5",
+      "mortalityCumulative": "1676"
+    },
+    {
+      "date": "5/10/20",
+      "cases": "16",
+      "casesCumulative": "30414",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "3963",
+      "mortality": "7",
+      "mortalityCumulative": "1683"
+    },
+    {
+      "date": "5/11/20",
+      "cases": "47",
+      "casesCumulative": "30461",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "3968",
+      "mortality": "3",
+      "mortalityCumulative": "1686"
+    },
+    {
+      "date": "5/12/20",
+      "cases": "42",
+      "casesCumulative": "30503",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "3969",
+      "mortality": "1",
+      "mortalityCumulative": "1687"
+    },
+    {
+      "date": "5/13/20",
+      "cases": "37",
+      "casesCumulative": "30540",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "3974",
+      "mortality": "1",
+      "mortalityCumulative": "1688"
+    },
+    {
+      "date": "5/14/20",
+      "cases": "37",
+      "casesCumulative": "30577",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3977",
+      "mortality": "2",
+      "mortalityCumulative": "1690"
+    },
+    {
+      "date": "5/15/20",
+      "cases": "41",
+      "casesCumulative": "30618",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3980",
+      "mortality": "5",
+      "mortalityCumulative": "1695"
+    },
+    {
+      "date": "5/16/20",
+      "cases": "15",
+      "casesCumulative": "30633",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3983",
+      "mortality": "1",
+      "mortalityCumulative": "1696"
+    },
+    {
+      "date": "5/17/20",
+      "cases": "12",
+      "casesCumulative": "30645",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "3988",
+      "mortality": "4",
+      "mortalityCumulative": "1700"
+    },
+    {
+      "date": "5/18/20",
+      "cases": "34",
+      "casesCumulative": "30679",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3991",
+      "mortality": "3",
+      "mortalityCumulative": "1703"
+    },
+    {
+      "date": "5/19/20",
+      "cases": "36",
+      "casesCumulative": "30715",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "3993",
+      "mortality": "4",
+      "mortalityCumulative": "1707"
+    },
+    {
+      "date": "5/20/20",
+      "cases": "29",
+      "casesCumulative": "30744",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "3995",
+      "mortality": "0",
+      "mortalityCumulative": "1707"
+    },
+    {
+      "date": "5/21/20",
+      "cases": "11",
+      "casesCumulative": "30755",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "3998",
+      "mortality": "5",
+      "mortalityCumulative": "1712"
+    },
+    {
+      "date": "5/22/20",
+      "cases": "20",
+      "casesCumulative": "30775",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "4002",
+      "mortality": "1",
+      "mortalityCumulative": "1713"
+    },
+    {
+      "date": "5/23/20",
+      "cases": "14",
+      "casesCumulative": "30789",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4003",
+      "mortality": "1",
+      "mortalityCumulative": "1714"
+    },
+    {
+      "date": "5/24/20",
+      "cases": "10",
+      "casesCumulative": "30799",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4003",
+      "mortality": "0",
+      "mortalityCumulative": "1714"
+    },
+    {
+      "date": "5/25/20",
+      "cases": "15",
+      "casesCumulative": "30814",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4004",
+      "mortality": "2",
+      "mortalityCumulative": "1716"
+    },
+    {
+      "date": "5/26/20",
+      "cases": "18",
+      "casesCumulative": "30832",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4009",
+      "mortality": "2",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "5/27/20",
+      "cases": "25",
+      "casesCumulative": "30857",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4009",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "5/28/20",
+      "cases": "30",
+      "casesCumulative": "30887",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4014",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "5/29/20",
+      "cases": "21",
+      "casesCumulative": "30908",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "4016",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "5/30/20",
+      "cases": "10",
+      "casesCumulative": "30918",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4019",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "5/31/20",
+      "cases": "7",
+      "casesCumulative": "30925",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4022",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "6/1/20",
+      "cases": "3",
+      "casesCumulative": "30928",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4022",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "6/2/20",
+      "cases": "23",
+      "casesCumulative": "30951",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4022",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "6/3/20",
+      "cases": "23",
+      "casesCumulative": "30974",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "4024",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "6/4/20",
+      "cases": "17",
+      "casesCumulative": "30991",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4027",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "6/5/20",
+      "cases": "15",
+      "casesCumulative": "31006",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4027",
+      "mortality": "0",
+      "mortalityCumulative": "1718"
+    },
+    {
+      "date": "6/6/20",
+      "cases": "10",
+      "casesCumulative": "31016",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4027",
+      "mortality": "1",
+      "mortalityCumulative": "1719"
+    },
+    {
+      "date": "6/7/20",
+      "cases": "8",
+      "casesCumulative": "31024",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4027",
+      "mortality": "0",
+      "mortalityCumulative": "1719"
+    },
+    {
+      "date": "6/8/20",
+      "cases": "25",
+      "casesCumulative": "31049",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4028",
+      "mortality": "1",
+      "mortalityCumulative": "1720"
+    },
+    {
+      "date": "6/9/20",
+      "cases": "11",
+      "casesCumulative": "31060",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4028",
+      "mortality": "0",
+      "mortalityCumulative": "1720"
+    },
+    {
+      "date": "6/10/20",
+      "cases": "24",
+      "casesCumulative": "31084",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4029",
+      "mortality": "1",
+      "mortalityCumulative": "1721"
+    },
+    {
+      "date": "6/11/20",
+      "cases": "25",
+      "casesCumulative": "31109",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4030",
+      "mortality": "0",
+      "mortalityCumulative": "1721"
+    },
+    {
+      "date": "6/12/20",
+      "cases": "34",
+      "casesCumulative": "31143",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4033",
+      "mortality": "1",
+      "mortalityCumulative": "1722"
+    },
+    {
+      "date": "6/13/20",
+      "cases": "9",
+      "casesCumulative": "31152",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4033",
+      "mortality": "1",
+      "mortalityCumulative": "1723"
+    },
+    {
+      "date": "6/14/20",
+      "cases": "12",
+      "casesCumulative": "31164",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4034",
+      "mortality": "0",
+      "mortalityCumulative": "1723"
+    },
+    {
+      "date": "6/15/20",
+      "cases": "32",
+      "casesCumulative": "31196",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4035",
+      "mortality": "0",
+      "mortalityCumulative": "1723"
+    },
+    {
+      "date": "6/16/20",
+      "cases": "21",
+      "casesCumulative": "31217",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4035",
+      "mortality": "1",
+      "mortalityCumulative": "1724"
+    },
+    {
+      "date": "6/17/20",
+      "cases": "18",
+      "casesCumulative": "31235",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "4037",
+      "mortality": "0",
+      "mortalityCumulative": "1724"
+    },
+    {
+      "date": "6/18/20",
+      "cases": "18",
+      "casesCumulative": "31253",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4040",
+      "mortality": "0",
+      "mortalityCumulative": "1724"
+    },
+    {
+      "date": "6/19/20",
+      "cases": "37",
+      "casesCumulative": "31290",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4045",
+      "mortality": "0",
+      "mortalityCumulative": "1724"
+    },
+    {
+      "date": "6/20/20",
+      "cases": "32",
+      "casesCumulative": "31322",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4051",
+      "mortality": "0",
+      "mortalityCumulative": "1724"
+    },
+    {
+      "date": "6/21/20",
+      "cases": "13",
+      "casesCumulative": "31335",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4051",
+      "mortality": "1",
+      "mortalityCumulative": "1725"
+    },
+    {
+      "date": "6/22/20",
+      "cases": "56",
+      "casesCumulative": "31391",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4054",
+      "mortality": "1",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/23/20",
+      "cases": "37",
+      "casesCumulative": "31428",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4057",
+      "mortality": "0",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/24/20",
+      "cases": "64",
+      "casesCumulative": "31492",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "4061",
+      "mortality": "0",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/25/20",
+      "cases": "48",
+      "casesCumulative": "31540",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "4061",
+      "mortality": "0",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/26/20",
+      "cases": "92",
+      "casesCumulative": "31632",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4066",
+      "mortality": "0",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/27/20",
+      "cases": "36",
+      "casesCumulative": "31668",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4067",
+      "mortality": "0",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/28/20",
+      "cases": "24",
+      "casesCumulative": "31692",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4068",
+      "mortality": "0",
+      "mortalityCumulative": "1726"
+    },
+    {
+      "date": "6/29/20",
+      "cases": "160",
+      "casesCumulative": "31852",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4073",
+      "mortality": "1",
+      "mortalityCumulative": "1727"
+    },
+    {
+      "date": "6/30/20",
+      "cases": "138",
+      "casesCumulative": "31990",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4081",
+      "mortality": "0",
+      "mortalityCumulative": "1727"
+    },
+    {
+      "date": "7/1/20",
+      "cases": "102",
+      "casesCumulative": "32092",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4087",
+      "mortality": "1",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/2/20",
+      "cases": "127",
+      "casesCumulative": "32219",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4092",
+      "mortality": "0",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/3/20",
+      "cases": "96",
+      "casesCumulative": "32315",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4097",
+      "mortality": "0",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/4/20",
+      "cases": "26",
+      "casesCumulative": "32341",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "4099",
+      "mortality": "0",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/5/20",
+      "cases": "37",
+      "casesCumulative": "32378",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4106",
+      "mortality": "0",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/6/20",
+      "cases": "106",
+      "casesCumulative": "32484",
+      "hospitalizations": "3",
+      "hospitalizationsCumulative": "4109",
+      "mortality": "0",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/7/20",
+      "cases": "107",
+      "casesCumulative": "32591",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4116",
+      "mortality": "0",
+      "mortalityCumulative": "1728"
+    },
+    {
+      "date": "7/8/20",
+      "cases": "97",
+      "casesCumulative": "32688",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "4120",
+      "mortality": "2",
+      "mortalityCumulative": "1730"
+    },
+    {
+      "date": "7/9/20",
+      "cases": "97",
+      "casesCumulative": "32785",
+      "hospitalizations": "11",
+      "hospitalizationsCumulative": "4131",
+      "mortality": "0",
+      "mortalityCumulative": "1730"
+    },
+    {
+      "date": "7/10/20",
+      "cases": "111",
+      "casesCumulative": "32896",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4138",
+      "mortality": "0",
+      "mortalityCumulative": "1730"
+    },
+    {
+      "date": "7/11/20",
+      "cases": "71",
+      "casesCumulative": "32967",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4148",
+      "mortality": "0",
+      "mortalityCumulative": "1730"
+    },
+    {
+      "date": "7/12/20",
+      "cases": "46",
+      "casesCumulative": "33013",
+      "hospitalizations": "12",
+      "hospitalizationsCumulative": "4160",
+      "mortality": "0",
+      "mortalityCumulative": "1730"
+    },
+    {
+      "date": "7/13/20",
+      "cases": "120",
+      "casesCumulative": "33133",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4165",
+      "mortality": "1",
+      "mortalityCumulative": "1731"
+    },
+    {
+      "date": "7/14/20",
+      "cases": "129",
+      "casesCumulative": "33262",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4170",
+      "mortality": "0",
+      "mortalityCumulative": "1731"
+    },
+    {
+      "date": "7/15/20",
+      "cases": "123",
+      "casesCumulative": "33385",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4177",
+      "mortality": "1",
+      "mortalityCumulative": "1732"
+    },
+    {
+      "date": "7/16/20",
+      "cases": "107",
+      "casesCumulative": "33492",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4182",
+      "mortality": "1",
+      "mortalityCumulative": "1733"
+    },
+    {
+      "date": "7/17/20",
+      "cases": "116",
+      "casesCumulative": "33608",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4188",
+      "mortality": "1",
+      "mortalityCumulative": "1734"
+    },
+    {
+      "date": "7/18/20",
+      "cases": "80",
+      "casesCumulative": "33688",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4194",
+      "mortality": "0",
+      "mortalityCumulative": "1734"
+    },
+    {
+      "date": "7/19/20",
+      "cases": "42",
+      "casesCumulative": "33730",
+      "hospitalizations": "1",
+      "hospitalizationsCumulative": "4195",
+      "mortality": "0",
+      "mortalityCumulative": "1734"
+    },
+    {
+      "date": "7/20/20",
+      "cases": "127",
+      "casesCumulative": "33857",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4202",
+      "mortality": "2",
+      "mortalityCumulative": "1736"
+    },
+    {
+      "date": "7/21/20",
+      "cases": "138",
+      "casesCumulative": "33995",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4208",
+      "mortality": "1",
+      "mortalityCumulative": "1737"
+    },
+    {
+      "date": "7/22/20",
+      "cases": "118",
+      "casesCumulative": "34113",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4216",
+      "mortality": "0",
+      "mortalityCumulative": "1737"
+    },
+    {
+      "date": "7/23/20",
+      "cases": "143",
+      "casesCumulative": "34256",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4224",
+      "mortality": "0",
+      "mortalityCumulative": "1737"
+    },
+    {
+      "date": "7/24/20",
+      "cases": "148",
+      "casesCumulative": "34404",
+      "hospitalizations": "15",
+      "hospitalizationsCumulative": "4239",
+      "mortality": "1",
+      "mortalityCumulative": "1738"
+    },
+    {
+      "date": "7/25/20",
+      "cases": "95",
+      "casesCumulative": "34499",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4249",
+      "mortality": "1",
+      "mortalityCumulative": "1739"
+    },
+    {
+      "date": "7/26/20",
+      "cases": "57",
+      "casesCumulative": "34556",
+      "hospitalizations": "4",
+      "hospitalizationsCumulative": "4253",
+      "mortality": "0",
+      "mortalityCumulative": "1739"
+    },
+    {
+      "date": "7/27/20",
+      "cases": "194",
+      "casesCumulative": "34750",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4261",
+      "mortality": "1",
+      "mortalityCumulative": "1740"
+    },
+    {
+      "date": "7/28/20",
+      "cases": "190",
+      "casesCumulative": "34940",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "4274",
+      "mortality": "1",
+      "mortalityCumulative": "1741"
+    },
+    {
+      "date": "7/29/20",
+      "cases": "220",
+      "casesCumulative": "35160",
+      "hospitalizations": "14",
+      "hospitalizationsCumulative": "4288",
+      "mortality": "0",
+      "mortalityCumulative": "1741"
+    },
+    {
+      "date": "7/30/20",
+      "cases": "212",
+      "casesCumulative": "35372",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4294",
+      "mortality": "0",
+      "mortalityCumulative": "1741"
+    },
+    {
+      "date": "7/31/20",
+      "cases": "164",
+      "casesCumulative": "35536",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4303",
+      "mortality": "2",
+      "mortalityCumulative": "1743"
+    },
+    {
+      "date": "8/1/20",
+      "cases": "97",
+      "casesCumulative": "35633",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4309",
+      "mortality": "1",
+      "mortalityCumulative": "1744"
+    },
+    {
+      "date": "8/2/20",
+      "cases": "80",
+      "casesCumulative": "35713",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4315",
+      "mortality": "0",
+      "mortalityCumulative": "1744"
+    },
+    {
+      "date": "8/3/20",
+      "cases": "196",
+      "casesCumulative": "35909",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4320",
+      "mortality": "0",
+      "mortalityCumulative": "1744"
+    },
+    {
+      "date": "8/4/20",
+      "cases": "181",
+      "casesCumulative": "36090",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "4322",
+      "mortality": "1",
+      "mortalityCumulative": "1745"
+    },
+    {
+      "date": "8/5/20",
+      "cases": "152",
+      "casesCumulative": "36242",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4329",
+      "mortality": "1",
+      "mortalityCumulative": "1746"
+    },
+    {
+      "date": "8/6/20",
+      "cases": "156",
+      "casesCumulative": "36398",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "4342",
+      "mortality": "1",
+      "mortalityCumulative": "1747"
+    },
+    {
+      "date": "8/7/20",
+      "cases": "185",
+      "casesCumulative": "36583",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4348",
+      "mortality": "1",
+      "mortalityCumulative": "1748"
+    },
+    {
+      "date": "8/8/20",
+      "cases": "130",
+      "casesCumulative": "36713",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4357",
+      "mortality": "1",
+      "mortalityCumulative": "1749"
+    },
+    {
+      "date": "8/9/20",
+      "cases": "100",
+      "casesCumulative": "36813",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4364",
+      "mortality": "0",
+      "mortalityCumulative": "1749"
+    },
+    {
+      "date": "8/10/20",
+      "cases": "282",
+      "casesCumulative": "37095",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4373",
+      "mortality": "1",
+      "mortalityCumulative": "1750"
+    },
+    {
+      "date": "8/11/20",
+      "cases": "256",
+      "casesCumulative": "37351",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4379",
+      "mortality": "0",
+      "mortalityCumulative": "1750"
+    },
+    {
+      "date": "8/12/20",
+      "cases": "247",
+      "casesCumulative": "37598",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4384",
+      "mortality": "0",
+      "mortalityCumulative": "1750"
+    },
+    {
+      "date": "8/13/20",
+      "cases": "274",
+      "casesCumulative": "37872",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4394",
+      "mortality": "1",
+      "mortalityCumulative": "1751"
+    },
+    {
+      "date": "8/14/20",
+      "cases": "234",
+      "casesCumulative": "38106",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4403",
+      "mortality": "0",
+      "mortalityCumulative": "1751"
+    },
+    {
+      "date": "8/15/20",
+      "cases": "149",
+      "casesCumulative": "38255",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4411",
+      "mortality": "3",
+      "mortalityCumulative": "1754"
+    },
+    {
+      "date": "8/16/20",
+      "cases": "140",
+      "casesCumulative": "38395",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4418",
+      "mortality": "0",
+      "mortalityCumulative": "1754"
+    },
+    {
+      "date": "8/17/20",
+      "cases": "286",
+      "casesCumulative": "38681",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4428",
+      "mortality": "1",
+      "mortalityCumulative": "1755"
+    },
+    {
+      "date": "8/18/20",
+      "cases": "295",
+      "casesCumulative": "38976",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4435",
+      "mortality": "0",
+      "mortalityCumulative": "1755"
+    },
+    {
+      "date": "8/19/20",
+      "cases": "285",
+      "casesCumulative": "39261",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4442",
+      "mortality": "0",
+      "mortalityCumulative": "1755"
+    },
+    {
+      "date": "8/20/20",
+      "cases": "350",
+      "casesCumulative": "39611",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4450",
+      "mortality": "0",
+      "mortalityCumulative": "1755"
+    },
+    {
+      "date": "8/21/20",
+      "cases": "314",
+      "casesCumulative": "39925",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4459",
+      "mortality": "1",
+      "mortalityCumulative": "1756"
+    },
+    {
+      "date": "8/22/20",
+      "cases": "193",
+      "casesCumulative": "40118",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4464",
+      "mortality": "1",
+      "mortalityCumulative": "1757"
+    },
+    {
+      "date": "8/23/20",
+      "cases": "136",
+      "casesCumulative": "40254",
+      "hospitalizations": "5",
+      "hospitalizationsCumulative": "4469",
+      "mortality": "2",
+      "mortalityCumulative": "1759"
+    },
+    {
+      "date": "8/24/20",
+      "cases": "306",
+      "casesCumulative": "40560",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4476",
+      "mortality": "1",
+      "mortalityCumulative": "1760"
+    },
+    {
+      "date": "8/25/20",
+      "cases": "340",
+      "casesCumulative": "40900",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4482",
+      "mortality": "0",
+      "mortalityCumulative": "1760"
+    },
+    {
+      "date": "8/26/20",
+      "cases": "363",
+      "casesCumulative": "41263",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4489",
+      "mortality": "0",
+      "mortalityCumulative": "1760"
+    },
+    {
+      "date": "8/27/20",
+      "cases": "353",
+      "casesCumulative": "41616",
+      "hospitalizations": "6",
+      "hospitalizationsCumulative": "4495",
+      "mortality": "2",
+      "mortalityCumulative": "1762"
+    },
+    {
+      "date": "8/28/20",
+      "cases": "377",
+      "casesCumulative": "41993",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4504",
+      "mortality": "0",
+      "mortalityCumulative": "1762"
+    },
+    {
+      "date": "8/29/20",
+      "cases": "216",
+      "casesCumulative": "42209",
+      "hospitalizations": "2",
+      "hospitalizationsCumulative": "4506",
+      "mortality": "0",
+      "mortalityCumulative": "1762"
+    },
+    {
+      "date": "8/30/20",
+      "cases": "144",
+      "casesCumulative": "42353",
+      "hospitalizations": "7",
+      "hospitalizationsCumulative": "4513",
+      "mortality": "1",
+      "mortalityCumulative": "1763"
+    },
+    {
+      "date": "8/31/20",
+      "cases": "347",
+      "casesCumulative": "42700",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4522",
+      "mortality": "1",
+      "mortalityCumulative": "1764"
+    },
+    {
+      "date": "9/1/20",
+      "cases": "364",
+      "casesCumulative": "43064",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4532",
+      "mortality": "1",
+      "mortalityCumulative": "1765"
+    },
+    {
+      "date": "9/2/20",
+      "cases": "417",
+      "casesCumulative": "43481",
+      "hospitalizations": "11",
+      "hospitalizationsCumulative": "4543",
+      "mortality": "3",
+      "mortalityCumulative": "1768"
+    },
+    {
+      "date": "9/3/20",
+      "cases": "438",
+      "casesCumulative": "43919",
+      "hospitalizations": "12",
+      "hospitalizationsCumulative": "4555",
+      "mortality": "1",
+      "mortalityCumulative": "1769"
+    },
+    {
+      "date": "9/4/20",
+      "cases": "426",
+      "casesCumulative": "44345",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "4568",
+      "mortality": "2",
+      "mortalityCumulative": "1771"
+    },
+    {
+      "date": "9/5/20",
+      "cases": "294",
+      "casesCumulative": "44639",
+      "hospitalizations": "9",
+      "hospitalizationsCumulative": "4577",
+      "mortality": "2",
+      "mortalityCumulative": "1773"
+    },
+    {
+      "date": "9/6/20",
+      "cases": "170",
+      "casesCumulative": "44809",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4585",
+      "mortality": "3",
+      "mortalityCumulative": "1776"
+    },
+    {
+      "date": "9/7/20",
+      "cases": "467",
+      "casesCumulative": "45276",
+      "hospitalizations": "14",
+      "hospitalizationsCumulative": "4599",
+      "mortality": "1",
+      "mortalityCumulative": "1777"
+    },
+    {
+      "date": "9/8/20",
+      "cases": "388",
+      "casesCumulative": "45664",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4607",
+      "mortality": "1",
+      "mortalityCumulative": "1778"
+    },
+    {
+      "date": "9/9/20",
+      "cases": "462",
+      "casesCumulative": "46126",
+      "hospitalizations": "15",
+      "hospitalizationsCumulative": "4622",
+      "mortality": "7",
+      "mortalityCumulative": "1785"
+    },
+    {
+      "date": "9/10/20",
+      "cases": "507",
+      "casesCumulative": "46633",
+      "hospitalizations": "23",
+      "hospitalizationsCumulative": "4645",
+      "mortality": "0",
+      "mortalityCumulative": "1785"
+    },
+    {
+      "date": "9/11/20",
+      "cases": "535",
+      "casesCumulative": "47168",
+      "hospitalizations": "16",
+      "hospitalizationsCumulative": "4661",
+      "mortality": "4",
+      "mortalityCumulative": "1789"
+    },
+    {
+      "date": "9/12/20",
+      "cases": "266",
+      "casesCumulative": "47434",
+      "hospitalizations": "13",
+      "hospitalizationsCumulative": "4674",
+      "mortality": "3",
+      "mortalityCumulative": "1792"
+    },
+    {
+      "date": "9/13/20",
+      "cases": "238",
+      "casesCumulative": "47672",
+      "hospitalizations": "12",
+      "hospitalizationsCumulative": "4686",
+      "mortality": "1",
+      "mortalityCumulative": "1793"
+    },
+    {
+      "date": "9/14/20",
+      "cases": "504",
+      "casesCumulative": "48176",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4696",
+      "mortality": "0",
+      "mortalityCumulative": "1793"
+    },
+    {
+      "date": "9/15/20",
+      "cases": "458",
+      "casesCumulative": "48634",
+      "hospitalizations": "11",
+      "hospitalizationsCumulative": "4707",
+      "mortality": "3",
+      "mortalityCumulative": "1796"
+    },
+    {
+      "date": "9/16/20",
+      "cases": "517",
+      "casesCumulative": "49151",
+      "hospitalizations": "22",
+      "hospitalizationsCumulative": "4729",
+      "mortality": "5",
+      "mortalityCumulative": "1801"
+    },
+    {
+      "date": "9/17/20",
+      "cases": "499",
+      "casesCumulative": "49650",
+      "hospitalizations": "15",
+      "hospitalizationsCumulative": "4744",
+      "mortality": "4",
+      "mortalityCumulative": "1805"
+    },
+    {
+      "date": "9/18/20",
+      "cases": "445",
+      "casesCumulative": "50095",
+      "hospitalizations": "23",
+      "hospitalizationsCumulative": "4767",
+      "mortality": "2",
+      "mortalityCumulative": "1807"
+    },
+    {
+      "date": "9/19/20",
+      "cases": "285",
+      "casesCumulative": "50380",
+      "hospitalizations": "12",
+      "hospitalizationsCumulative": "4779",
+      "mortality": "1",
+      "mortalityCumulative": "1808"
+    },
+    {
+      "date": "9/20/20",
+      "cases": "201",
+      "casesCumulative": "50581",
+      "hospitalizations": "12",
+      "hospitalizationsCumulative": "4791",
+      "mortality": "0",
+      "mortalityCumulative": "1808"
+    },
+    {
+      "date": "9/21/20",
+      "cases": "396",
+      "casesCumulative": "50977",
+      "hospitalizations": "22",
+      "hospitalizationsCumulative": "4813",
+      "mortality": "3",
+      "mortalityCumulative": "1811"
+    },
+    {
+      "date": "9/22/20",
+      "cases": "426",
+      "casesCumulative": "51403",
+      "hospitalizations": "10",
+      "hospitalizationsCumulative": "4823",
+      "mortality": "1",
+      "mortalityCumulative": "1812"
+    },
+    {
+      "date": "9/23/20",
+      "cases": "389",
+      "casesCumulative": "51792",
+      "hospitalizations": "17",
+      "hospitalizationsCumulative": "4840",
+      "mortality": "1",
+      "mortalityCumulative": "1813"
+    },
+    {
+      "date": "9/24/20",
+      "cases": "309",
+      "casesCumulative": "52101",
+      "hospitalizations": "19",
+      "hospitalizationsCumulative": "4859",
+      "mortality": "4",
+      "mortalityCumulative": "1817"
+    },
+    {
+      "date": "9/25/20",
+      "cases": "360",
+      "casesCumulative": "52461",
+      "hospitalizations": "14",
+      "hospitalizationsCumulative": "4873",
+      "mortality": "1",
+      "mortalityCumulative": "1818"
+    },
+    {
+      "date": "9/26/20",
+      "cases": "222",
+      "casesCumulative": "52683",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "4881",
+      "mortality": "2",
+      "mortalityCumulative": "1820"
+    },
+    {
+      "date": "9/27/20",
+      "cases": "120",
+      "casesCumulative": "52803",
+      "hospitalizations": "20",
+      "hospitalizationsCumulative": "4901",
+      "mortality": "1",
+      "mortalityCumulative": "1821"
+    },
+    {
+      "date": "9/28/20",
+      "cases": "369",
+      "casesCumulative": "53172",
+      "hospitalizations": "20",
+      "hospitalizationsCumulative": "4921",
+      "mortality": "3",
+      "mortalityCumulative": "1824"
+    },
+    {
+      "date": "9/29/20",
+      "cases": "449",
+      "casesCumulative": "53621",
+      "hospitalizations": "29",
+      "hospitalizationsCumulative": "4950",
+      "mortality": "1",
+      "mortalityCumulative": "1825"
+    },
+    {
+      "date": "9/30/20",
+      "cases": "541",
+      "casesCumulative": "54162",
+      "hospitalizations": "25",
+      "hospitalizationsCumulative": "4975",
+      "mortality": "0",
+      "mortalityCumulative": "1825"
+    },
+    {
+      "date": "10/1/20",
+      "cases": "602",
+      "casesCumulative": "54764",
+      "hospitalizations": "22",
+      "hospitalizationsCumulative": "4997",
+      "mortality": "5",
+      "mortalityCumulative": "1830"
+    },
+    {
+      "date": "10/2/20",
+      "cases": "680",
+      "casesCumulative": "55444",
+      "hospitalizations": "29",
+      "hospitalizationsCumulative": "5026",
+      "mortality": "1",
+      "mortalityCumulative": "1831"
+    },
+    {
+      "date": "10/3/20",
+      "cases": "515",
+      "casesCumulative": "55959",
+      "hospitalizations": "20",
+      "hospitalizationsCumulative": "5046",
+      "mortality": "0",
+      "mortalityCumulative": "1831"
+    },
+    {
+      "date": "10/4/20",
+      "cases": "317",
+      "casesCumulative": "56276",
+      "hospitalizations": "16",
+      "hospitalizationsCumulative": "5062",
+      "mortality": "1",
+      "mortalityCumulative": "1832"
+    },
+    {
+      "date": "10/5/20",
+      "cases": "1021",
+      "casesCumulative": "57297",
+      "hospitalizations": "23",
+      "hospitalizationsCumulative": "5085",
+      "mortality": "2",
+      "mortalityCumulative": "1834"
+    },
+    {
+      "date": "10/6/20",
+      "cases": "1098",
+      "casesCumulative": "58395",
+      "hospitalizations": "37",
+      "hospitalizationsCumulative": "5122",
+      "mortality": "1",
+      "mortalityCumulative": "1835"
+    },
+    {
+      "date": "10/7/20",
+      "cases": "1380",
+      "casesCumulative": "59775",
+      "hospitalizations": "36",
+      "hospitalizationsCumulative": "5158",
+      "mortality": "2",
+      "mortalityCumulative": "1837"
+    },
+    {
+      "date": "10/8/20",
+      "cases": "1474",
+      "casesCumulative": "61249",
+      "hospitalizations": "55",
+      "hospitalizationsCumulative": "5213",
+      "mortality": "3",
+      "mortalityCumulative": "1840"
+    },
+    {
+      "date": "10/9/20",
+      "cases": "1728",
+      "casesCumulative": "62977",
+      "hospitalizations": "47",
+      "hospitalizationsCumulative": "5260",
+      "mortality": "3",
+      "mortalityCumulative": "1843"
+    },
+    {
+      "date": "10/10/20",
+      "cases": "1256",
+      "casesCumulative": "64233",
+      "hospitalizations": "32",
+      "hospitalizationsCumulative": "5292",
+      "mortality": "3",
+      "mortalityCumulative": "1846"
+    },
+    {
+      "date": "10/11/20",
+      "cases": "812",
+      "casesCumulative": "65045",
+      "hospitalizations": "47",
+      "hospitalizationsCumulative": "5339",
+      "mortality": "3",
+      "mortalityCumulative": "1849"
+    },
+    {
+      "date": "10/12/20",
+      "cases": "2571",
+      "casesCumulative": "67616",
+      "hospitalizations": "82",
+      "hospitalizationsCumulative": "5421",
+      "mortality": "5",
+      "mortalityCumulative": "1854"
+    },
+    {
+      "date": "10/13/20",
+      "cases": "2700",
+      "casesCumulative": "70316",
+      "hospitalizations": "68",
+      "hospitalizationsCumulative": "5489",
+      "mortality": "6",
+      "mortalityCumulative": "1860"
+    },
+    {
+      "date": "10/14/20",
+      "cases": "3007",
+      "casesCumulative": "73323",
+      "hospitalizations": "90",
+      "hospitalizationsCumulative": "5579",
+      "mortality": "5",
+      "mortalityCumulative": "1865"
+    },
+    {
+      "date": "10/15/20",
+      "cases": "3410",
+      "casesCumulative": "76733",
+      "hospitalizations": "95",
+      "hospitalizationsCumulative": "5674",
+      "mortality": "5",
+      "mortalityCumulative": "1870"
+    },
+    {
+      "date": "10/16/20",
+      "cases": "3699",
+      "casesCumulative": "80432",
+      "hospitalizations": "109",
+      "hospitalizationsCumulative": "5783",
+      "mortality": "10",
+      "mortalityCumulative": "1880"
+    },
+    {
+      "date": "10/17/20",
+      "cases": "2385",
+      "casesCumulative": "82817",
+      "hospitalizations": "114",
+      "hospitalizationsCumulative": "5897",
+      "mortality": "7",
+      "mortalityCumulative": "1887"
+    },
+    {
+      "date": "10/18/20",
+      "cases": "1788",
+      "casesCumulative": "84605",
+      "hospitalizations": "71",
+      "hospitalizationsCumulative": "5968",
+      "mortality": "7",
+      "mortalityCumulative": "1894"
+    },
+    {
+      "date": "10/19/20",
+      "cases": "5427",
+      "casesCumulative": "90032",
+      "hospitalizations": "158",
+      "hospitalizationsCumulative": "6126",
+      "mortality": "16",
+      "mortalityCumulative": "1910"
+    },
+    {
+      "date": "10/20/20",
+      "cases": "5706",
+      "casesCumulative": "95738",
+      "hospitalizations": "156",
+      "hospitalizationsCumulative": "6282",
+      "mortality": "12",
+      "mortalityCumulative": "1922"
+    },
+    {
+      "date": "10/21/20",
+      "cases": "6488",
+      "casesCumulative": "102226",
+      "hospitalizations": "142",
+      "hospitalizationsCumulative": "6424",
+      "mortality": "18",
+      "mortalityCumulative": "1940"
+    },
+    {
+      "date": "10/22/20",
+      "cases": "6797",
+      "casesCumulative": "109023",
+      "hospitalizations": "168",
+      "hospitalizationsCumulative": "6592",
+      "mortality": "25",
+      "mortalityCumulative": "1965"
+    },
+    {
+      "date": "10/23/20",
+      "cases": "7527",
+      "casesCumulative": "116550",
+      "hospitalizations": "201",
+      "hospitalizationsCumulative": "6793",
+      "mortality": "25",
+      "mortalityCumulative": "1990"
+    },
+    {
+      "date": "10/24/20",
+      "cases": "4699",
+      "casesCumulative": "121249",
+      "hospitalizations": "167",
+      "hospitalizationsCumulative": "6960",
+      "mortality": "25",
+      "mortalityCumulative": "2015"
+    },
+    {
+      "date": "10/25/20",
+      "cases": "3230",
+      "casesCumulative": "124479",
+      "hospitalizations": "189",
+      "hospitalizationsCumulative": "7149",
+      "mortality": "21",
+      "mortalityCumulative": "2036"
+    },
+    {
+      "date": "10/26/20",
+      "cases": "10155",
+      "casesCumulative": "134634",
+      "hospitalizations": "240",
+      "hospitalizationsCumulative": "7389",
+      "mortality": "20",
+      "mortalityCumulative": "2056"
+    },
+    {
+      "date": "10/27/20",
+      "cases": "9769",
+      "casesCumulative": "144403",
+      "hospitalizations": "207",
+      "hospitalizationsCumulative": "7596",
+      "mortality": "39",
+      "mortalityCumulative": "2095"
+    },
+    {
+      "date": "10/28/20",
+      "cases": "9316",
+      "casesCumulative": "153719",
+      "hospitalizations": "246",
+      "hospitalizationsCumulative": "7842",
+      "mortality": "42",
+      "mortalityCumulative": "2137"
+    },
+    {
+      "date": "10/29/20",
+      "cases": "9000",
+      "casesCumulative": "162719",
+      "hospitalizations": "230",
+      "hospitalizationsCumulative": "8072",
+      "mortality": "58",
+      "mortalityCumulative": "2195"
+    },
+    {
+      "date": "10/30/20",
+      "cases": "8971",
+      "casesCumulative": "171690",
+      "hospitalizations": "290",
+      "hospitalizationsCumulative": "8362",
+      "mortality": "42",
+      "mortalityCumulative": "2237"
+    },
+    {
+      "date": "10/31/20",
+      "cases": "5153",
+      "casesCumulative": "176843",
+      "hospitalizations": "163",
+      "hospitalizationsCumulative": "8525",
+      "mortality": "59",
+      "mortalityCumulative": "2296"
+    },
+    {
+      "date": "11/1/20",
+      "cases": "3648",
+      "casesCumulative": "180491",
+      "hospitalizations": "205",
+      "hospitalizationsCumulative": "8730",
+      "mortality": "59",
+      "mortalityCumulative": "2355"
+    },
+    {
+      "date": "11/2/20",
+      "cases": "10559",
+      "casesCumulative": "191050",
+      "hospitalizations": "293",
+      "hospitalizationsCumulative": "9023",
+      "mortality": "59",
+      "mortalityCumulative": "2414"
+    },
+    {
+      "date": "11/3/20",
+      "cases": "9631",
+      "casesCumulative": "200681",
+      "hospitalizations": "258",
+      "hospitalizationsCumulative": "9281",
+      "mortality": "79",
+      "mortalityCumulative": "2493"
+    },
+    {
+      "date": "11/4/20",
+      "cases": "8746",
+      "casesCumulative": "209427",
+      "hospitalizations": "208",
+      "hospitalizationsCumulative": "9489",
+      "mortality": "82",
+      "mortalityCumulative": "2575"
+    },
+    {
+      "date": "11/5/20",
+      "cases": "7867",
+      "casesCumulative": "217294",
+      "hospitalizations": "210",
+      "hospitalizationsCumulative": "9699",
+      "mortality": "78",
+      "mortalityCumulative": "2653"
+    },
+    {
+      "date": "11/6/20",
+      "cases": "7399",
+      "casesCumulative": "224693",
+      "hospitalizations": "258",
+      "hospitalizationsCumulative": "9957",
+      "mortality": "92",
+      "mortalityCumulative": "2745"
+    },
+    {
+      "date": "11/7/20",
+      "cases": "4204",
+      "casesCumulative": "228897",
+      "hospitalizations": "218",
+      "hospitalizationsCumulative": "10175",
+      "mortality": "69",
+      "mortalityCumulative": "2814"
+    },
+    {
+      "date": "11/8/20",
+      "cases": "3001",
+      "casesCumulative": "231898",
+      "hospitalizations": "165",
+      "hospitalizationsCumulative": "10340",
+      "mortality": "89",
+      "mortalityCumulative": "2903"
+    },
+    {
+      "date": "11/9/20",
+      "cases": "8732",
+      "casesCumulative": "240630",
+      "hospitalizations": "277",
+      "hospitalizationsCumulative": "10617",
+      "mortality": "85",
+      "mortalityCumulative": "2988"
+    },
+    {
+      "date": "11/10/20",
+      "cases": "7422",
+      "casesCumulative": "248052",
+      "hospitalizations": "209",
+      "hospitalizationsCumulative": "10826",
+      "mortality": "83",
+      "mortalityCumulative": "3071"
+    },
+    {
+      "date": "11/11/20",
+      "cases": "6377",
+      "casesCumulative": "254429",
+      "hospitalizations": "224",
+      "hospitalizationsCumulative": "11050",
+      "mortality": "89",
+      "mortalityCumulative": "3160"
+    },
+    {
+      "date": "11/12/20",
+      "cases": "5983",
+      "casesCumulative": "260412",
+      "hospitalizations": "215",
+      "hospitalizationsCumulative": "11265",
+      "mortality": "103",
+      "mortalityCumulative": "3263"
+    },
+    {
+      "date": "11/13/20",
+      "cases": "5704",
+      "casesCumulative": "266116",
+      "hospitalizations": "228",
+      "hospitalizationsCumulative": "11493",
+      "mortality": "85",
+      "mortalityCumulative": "3348"
+    },
+    {
+      "date": "11/14/20",
+      "cases": "3222",
+      "casesCumulative": "269338",
+      "hospitalizations": "175",
+      "hospitalizationsCumulative": "11668",
+      "mortality": "77",
+      "mortalityCumulative": "3425"
+    },
+    {
+      "date": "11/15/20",
+      "cases": "2326",
+      "casesCumulative": "271664",
+      "hospitalizations": "139",
+      "hospitalizationsCumulative": "11807",
+      "mortality": "85",
+      "mortalityCumulative": "3510"
+    },
+    {
+      "date": "11/16/20",
+      "cases": "6609",
+      "casesCumulative": "278273",
+      "hospitalizations": "268",
+      "hospitalizationsCumulative": "12075",
+      "mortality": "91",
+      "mortalityCumulative": "3601"
+    },
+    {
+      "date": "11/17/20",
+      "cases": "5452",
+      "casesCumulative": "283725",
+      "hospitalizations": "204",
+      "hospitalizationsCumulative": "12279",
+      "mortality": "86",
+      "mortalityCumulative": "3687"
+    },
+    {
+      "date": "11/18/20",
+      "cases": "4877",
+      "casesCumulative": "288602",
+      "hospitalizations": "182",
+      "hospitalizationsCumulative": "12461",
+      "mortality": "104",
+      "mortalityCumulative": "3791"
+    },
+    {
+      "date": "11/19/20",
+      "cases": "4512",
+      "casesCumulative": "293114",
+      "hospitalizations": "164",
+      "hospitalizationsCumulative": "12625",
+      "mortality": "79",
+      "mortalityCumulative": "3870"
+    },
+    {
+      "date": "11/20/20",
+      "cases": "4340",
+      "casesCumulative": "297454",
+      "hospitalizations": "209",
+      "hospitalizationsCumulative": "12834",
+      "mortality": "81",
+      "mortalityCumulative": "3951"
+    },
+    {
+      "date": "11/21/20",
+      "cases": "2585",
+      "casesCumulative": "300039",
+      "hospitalizations": "103",
+      "hospitalizationsCumulative": "12937",
+      "mortality": "78",
+      "mortalityCumulative": "4029"
+    },
+    {
+      "date": "11/22/20",
+      "cases": "1902",
+      "casesCumulative": "301941",
+      "hospitalizations": "148",
+      "hospitalizationsCumulative": "13085",
+      "mortality": "80",
+      "mortalityCumulative": "4109"
+    },
+    {
+      "date": "11/23/20",
+      "cases": "5462",
+      "casesCumulative": "307403",
+      "hospitalizations": "225",
+      "hospitalizationsCumulative": "13310",
+      "mortality": "96",
+      "mortalityCumulative": "4205"
+    },
+    {
+      "date": "11/24/20",
+      "cases": "4455",
+      "casesCumulative": "311858",
+      "hospitalizations": "159",
+      "hospitalizationsCumulative": "13469",
+      "mortality": "89",
+      "mortalityCumulative": "4294"
+    },
+    {
+      "date": "11/25/20",
+      "cases": "4332",
+      "casesCumulative": "316190",
+      "hospitalizations": "169",
+      "hospitalizationsCumulative": "13638",
+      "mortality": "88",
+      "mortalityCumulative": "4382"
+    },
+    {
+      "date": "11/26/20",
+      "cases": "3971",
+      "casesCumulative": "320161",
+      "hospitalizations": "175",
+      "hospitalizationsCumulative": "13813",
+      "mortality": "75",
+      "mortalityCumulative": "4457"
+    },
+    {
+      "date": "11/27/20",
+      "cases": "4076",
+      "casesCumulative": "324237",
+      "hospitalizations": "188",
+      "hospitalizationsCumulative": "14001",
+      "mortality": "88",
+      "mortalityCumulative": "4545"
+    },
+    {
+      "date": "11/28/20",
+      "cases": "2327",
+      "casesCumulative": "326564",
+      "hospitalizations": "149",
+      "hospitalizationsCumulative": "14150",
+      "mortality": "87",
+      "mortalityCumulative": "4632"
+    },
+    {
+      "date": "11/29/20",
+      "cases": "1703",
+      "casesCumulative": "328267",
+      "hospitalizations": "113",
+      "hospitalizationsCumulative": "14263",
+      "mortality": "83",
+      "mortalityCumulative": "4715"
+    },
+    {
+      "date": "11/30/20",
+      "cases": "5304",
+      "casesCumulative": "333571",
+      "hospitalizations": "198",
+      "hospitalizationsCumulative": "14461",
+      "mortality": "93",
+      "mortalityCumulative": "4808"
+    },
+    {
+      "date": "12/1/20",
+      "cases": "4275",
+      "casesCumulative": "337846",
+      "hospitalizations": "150",
+      "hospitalizationsCumulative": "14611",
+      "mortality": "88",
+      "mortalityCumulative": "4896"
+    },
+    {
+      "date": "12/2/20",
+      "cases": "4438",
+      "casesCumulative": "342284",
+      "hospitalizations": "167",
+      "hospitalizationsCumulative": "14778",
+      "mortality": "88",
+      "mortalityCumulative": "4984"
+    },
+    {
+      "date": "12/3/20",
+      "cases": "4337",
+      "casesCumulative": "346621",
+      "hospitalizations": "180",
+      "hospitalizationsCumulative": "14958",
+      "mortality": "79",
+      "mortalityCumulative": "5063"
+    },
+    {
+      "date": "12/4/20",
+      "cases": "4578",
+      "casesCumulative": "351199",
+      "hospitalizations": "176",
+      "hospitalizationsCumulative": "15134",
+      "mortality": "80",
+      "mortalityCumulative": "5143"
+    },
+    {
+      "date": "12/5/20",
+      "cases": "2532",
+      "casesCumulative": "353731",
+      "hospitalizations": "139",
+      "hospitalizationsCumulative": "15273",
+      "mortality": "96",
+      "mortalityCumulative": "5239"
+    },
+    {
+      "date": "12/6/20",
+      "cases": "1942",
+      "casesCumulative": "355673",
+      "hospitalizations": "131",
+      "hospitalizationsCumulative": "15404",
+      "mortality": "65",
+      "mortalityCumulative": "5304"
+    },
+    {
+      "date": "12/7/20",
+      "cases": "5851",
+      "casesCumulative": "361524",
+      "hospitalizations": "212",
+      "hospitalizationsCumulative": "15616",
+      "mortality": "78",
+      "mortalityCumulative": "5382"
+    },
+    {
+      "date": "12/8/20",
+      "cases": "4686",
+      "casesCumulative": "366210",
+      "hospitalizations": "172",
+      "hospitalizationsCumulative": "15788",
+      "mortality": "94",
+      "mortalityCumulative": "5476"
+    },
+    {
+      "date": "12/9/20",
+      "cases": "5262",
+      "casesCumulative": "371472",
+      "hospitalizations": "203",
+      "hospitalizationsCumulative": "15991",
+      "mortality": "81",
+      "mortalityCumulative": "5557"
+    },
+    {
+      "date": "12/10/20",
+      "cases": "4661",
+      "casesCumulative": "376133",
+      "hospitalizations": "167",
+      "hospitalizationsCumulative": "16158",
+      "mortality": "84",
+      "mortalityCumulative": "5641"
+    },
+    {
+      "date": "12/11/20",
+      "cases": "4709",
+      "casesCumulative": "380842",
+      "hospitalizations": "160",
+      "hospitalizationsCumulative": "16318",
+      "mortality": "88",
+      "mortalityCumulative": "5729"
+    },
+    {
+      "date": "12/12/20",
+      "cases": "2890",
+      "casesCumulative": "383732",
+      "hospitalizations": "143",
+      "hospitalizationsCumulative": "16461",
+      "mortality": "84",
+      "mortalityCumulative": "5813"
+    },
+    {
+      "date": "12/13/20",
+      "cases": "2117",
+      "casesCumulative": "385849",
+      "hospitalizations": "139",
+      "hospitalizationsCumulative": "16600",
+      "mortality": "84",
+      "mortalityCumulative": "5897"
+    },
+    {
+      "date": "12/14/20",
+      "cases": "5947",
+      "casesCumulative": "391796",
+      "hospitalizations": "193",
+      "hospitalizationsCumulative": "16793",
+      "mortality": "97",
+      "mortalityCumulative": "5994"
+    },
+    {
+      "date": "12/15/20",
+      "cases": "5206",
+      "casesCumulative": "397002",
+      "hospitalizations": "176",
+      "hospitalizationsCumulative": "16969",
+      "mortality": "88",
+      "mortalityCumulative": "6082"
+    },
+    {
+      "date": "12/16/20",
+      "cases": "4854",
+      "casesCumulative": "401856",
+      "hospitalizations": "170",
+      "hospitalizationsCumulative": "17139",
+      "mortality": "91",
+      "mortalityCumulative": "6173"
+    },
+    {
+      "date": "12/17/20",
+      "cases": "4423",
+      "casesCumulative": "406279",
+      "hospitalizations": "162",
+      "hospitalizationsCumulative": "17301",
+      "mortality": "86",
+      "mortalityCumulative": "6259"
+    },
+    {
+      "date": "12/18/20",
+      "cases": "4390",
+      "casesCumulative": "410669",
+      "hospitalizations": "188",
+      "hospitalizationsCumulative": "17489",
+      "mortality": "91",
+      "mortalityCumulative": "6350"
+    },
+    {
+      "date": "12/19/20",
+      "cases": "2707",
+      "casesCumulative": "413376",
+      "hospitalizations": "132",
+      "hospitalizationsCumulative": "17621",
+      "mortality": "79",
+      "mortalityCumulative": "6429"
+    },
+    {
+      "date": "12/20/20",
+      "cases": "1975",
+      "casesCumulative": "415351",
+      "hospitalizations": "107",
+      "hospitalizationsCumulative": "17728",
+      "mortality": "100",
+      "mortalityCumulative": "6529"
+    },
+    {
+      "date": "12/21/20",
+      "cases": "5668",
+      "casesCumulative": "421019",
+      "hospitalizations": "190",
+      "hospitalizationsCumulative": "17918",
+      "mortality": "88",
+      "mortalityCumulative": "6617"
+    },
+    {
+      "date": "12/22/20",
+      "cases": "4660",
+      "casesCumulative": "425679",
+      "hospitalizations": "159",
+      "hospitalizationsCumulative": "18077",
+      "mortality": "83",
+      "mortalityCumulative": "6700"
+    },
+    {
+      "date": "12/23/20",
+      "cases": "4524",
+      "casesCumulative": "430203",
+      "hospitalizations": "169",
+      "hospitalizationsCumulative": "18246",
+      "mortality": "82",
+      "mortalityCumulative": "6782"
+    },
+    {
+      "date": "12/24/20",
+      "cases": "3081",
+      "casesCumulative": "433284",
+      "hospitalizations": "165",
+      "hospitalizationsCumulative": "18411",
+      "mortality": "91",
+      "mortalityCumulative": "6873"
+    },
+    {
+      "date": "12/25/20",
+      "cases": "1750",
+      "casesCumulative": "435034",
+      "hospitalizations": "147",
+      "hospitalizationsCumulative": "18558",
+      "mortality": "65",
+      "mortalityCumulative": "6938"
+    },
+    {
+      "date": "12/26/20",
+      "cases": "2378",
+      "casesCumulative": "437412",
+      "hospitalizations": "136",
+      "hospitalizationsCumulative": "18694",
+      "mortality": "94",
+      "mortalityCumulative": "7032"
+    },
+    {
+      "date": "12/27/20",
+      "cases": "2143",
+      "casesCumulative": "439555",
+      "hospitalizations": "126",
+      "hospitalizationsCumulative": "18820",
+      "mortality": "92",
+      "mortalityCumulative": "7124"
+    },
+    {
+      "date": "12/28/20",
+      "cases": "5070",
+      "casesCumulative": "444625",
+      "hospitalizations": "219",
+      "hospitalizationsCumulative": "19039",
+      "mortality": "77",
+      "mortalityCumulative": "7201"
+    },
+    {
+      "date": "12/29/20",
+      "cases": "4499",
+      "casesCumulative": "449124",
+      "hospitalizations": "157",
+      "hospitalizationsCumulative": "19196",
+      "mortality": "76",
+      "mortalityCumulative": "7277"
+    },
+    {
+      "date": "12/30/20",
+      "cases": "4241",
+      "casesCumulative": "453365",
+      "hospitalizations": "166",
+      "hospitalizationsCumulative": "19362",
+      "mortality": "93",
+      "mortalityCumulative": "7370"
+    },
+    {
+      "date": "12/31/20",
+      "cases": "3078",
+      "casesCumulative": "456443",
+      "hospitalizations": "130",
+      "hospitalizationsCumulative": "19492",
+      "mortality": "78",
+      "mortalityCumulative": "7448"
+    },
+    {
+      "date": "1/1/21",
+      "cases": "1693",
+      "casesCumulative": "458136",
+      "hospitalizations": "131",
+      "hospitalizationsCumulative": "19623",
+      "mortality": "73",
+      "mortalityCumulative": "7521"
+    },
+    {
+      "date": "1/2/21",
+      "cases": "2741",
+      "casesCumulative": "460877",
+      "hospitalizations": "169",
+      "hospitalizationsCumulative": "19792",
+      "mortality": "65",
+      "mortalityCumulative": "7586"
+    },
+    {
+      "date": "1/3/21",
+      "cases": "2237",
+      "casesCumulative": "463114",
+      "hospitalizations": "135",
+      "hospitalizationsCumulative": "19927",
+      "mortality": "66",
+      "mortalityCumulative": "7652"
+    },
+    {
+      "date": "1/4/21",
+      "cases": "5309",
+      "casesCumulative": "468423",
+      "hospitalizations": "184",
+      "hospitalizationsCumulative": "20111",
+      "mortality": "52",
+      "mortalityCumulative": "7704"
+    },
+    {
+      "date": "1/5/21",
+      "cases": "4194",
+      "casesCumulative": "472617",
+      "hospitalizations": "138",
+      "hospitalizationsCumulative": "20249",
+      "mortality": "64",
+      "mortalityCumulative": "7768"
+    },
+    {
+      "date": "1/6/21",
+      "cases": "3358",
+      "casesCumulative": "475975",
+      "hospitalizations": "126",
+      "hospitalizationsCumulative": "20375",
+      "mortality": "59",
+      "mortalityCumulative": "7827"
+    },
+    {
+      "date": "1/7/21",
+      "cases": "3187",
+      "casesCumulative": "479162",
+      "hospitalizations": "154",
+      "hospitalizationsCumulative": "20529",
+      "mortality": "62",
+      "mortalityCumulative": "7889"
+    },
+    {
+      "date": "1/8/21",
+      "cases": "3061",
+      "casesCumulative": "482223",
+      "hospitalizations": "136",
+      "hospitalizationsCumulative": "20665",
+      "mortality": "48",
+      "mortalityCumulative": "7937"
+    },
+    {
+      "date": "1/9/21",
+      "cases": "1690",
+      "casesCumulative": "483913",
+      "hospitalizations": "113",
+      "hospitalizationsCumulative": "20778",
+      "mortality": "66",
+      "mortalityCumulative": "8003"
+    },
+    {
+      "date": "1/10/21",
+      "cases": "1302",
+      "casesCumulative": "485215",
+      "hospitalizations": "82",
+      "hospitalizationsCumulative": "20860",
+      "mortality": "55",
+      "mortalityCumulative": "8058"
+    },
+    {
+      "date": "1/11/21",
+      "cases": "3475",
+      "casesCumulative": "488690",
+      "hospitalizations": "126",
+      "hospitalizationsCumulative": "20986",
+      "mortality": "57",
+      "mortalityCumulative": "8115"
+    },
+    {
+      "date": "1/12/21",
+      "cases": "2615",
+      "casesCumulative": "491305",
+      "hospitalizations": "99",
+      "hospitalizationsCumulative": "21085",
+      "mortality": "52",
+      "mortalityCumulative": "8167"
+    },
+    {
+      "date": "1/13/21",
+      "cases": "2465",
+      "casesCumulative": "493770",
+      "hospitalizations": "116",
+      "hospitalizationsCumulative": "21201",
+      "mortality": "56",
+      "mortalityCumulative": "8223"
+    },
+    {
+      "date": "1/14/21",
+      "cases": "2240",
+      "casesCumulative": "496010",
+      "hospitalizations": "93",
+      "hospitalizationsCumulative": "21294",
+      "mortality": "47",
+      "mortalityCumulative": "8270"
+    },
+    {
+      "date": "1/15/21",
+      "cases": "2163",
+      "casesCumulative": "498173",
+      "hospitalizations": "91",
+      "hospitalizationsCumulative": "21385",
+      "mortality": "61",
+      "mortalityCumulative": "8331"
+    },
+    {
+      "date": "1/16/21",
+      "cases": "1343",
+      "casesCumulative": "499516",
+      "hospitalizations": "78",
+      "hospitalizationsCumulative": "21463",
+      "mortality": "48",
+      "mortalityCumulative": "8379"
+    },
+    {
+      "date": "1/17/21",
+      "cases": "899",
+      "casesCumulative": "500415",
+      "hospitalizations": "61",
+      "hospitalizationsCumulative": "21524",
+      "mortality": "33",
+      "mortalityCumulative": "8412"
+    },
+    {
+      "date": "1/18/21",
+      "cases": "2956",
+      "casesCumulative": "503371",
+      "hospitalizations": "110",
+      "hospitalizationsCumulative": "21634",
+      "mortality": "37",
+      "mortalityCumulative": "8449"
+    },
+    {
+      "date": "1/19/21",
+      "cases": "2340",
+      "casesCumulative": "505711",
+      "hospitalizations": "85",
+      "hospitalizationsCumulative": "21719",
+      "mortality": "63",
+      "mortalityCumulative": "8512"
+    },
+    {
+      "date": "1/20/21",
+      "cases": "2297",
+      "casesCumulative": "508008",
+      "hospitalizations": "83",
+      "hospitalizationsCumulative": "21802",
+      "mortality": "44",
+      "mortalityCumulative": "8556"
+    },
+    {
+      "date": "1/21/21",
+      "cases": "2060",
+      "casesCumulative": "510068",
+      "hospitalizations": "81",
+      "hospitalizationsCumulative": "21883",
+      "mortality": "42",
+      "mortalityCumulative": "8598"
+    },
+    {
+      "date": "1/22/21",
+      "cases": "2043",
+      "casesCumulative": "512111",
+      "hospitalizations": "86",
+      "hospitalizationsCumulative": "21969",
+      "mortality": "43",
+      "mortalityCumulative": "8641"
+    },
+    {
+      "date": "1/23/21",
+      "cases": "1103",
+      "casesCumulative": "513214",
+      "hospitalizations": "41",
+      "hospitalizationsCumulative": "22010",
+      "mortality": "44",
+      "mortalityCumulative": "8685"
+    },
+    {
+      "date": "1/24/21",
+      "cases": "743",
+      "casesCumulative": "513957",
+      "hospitalizations": "35",
+      "hospitalizationsCumulative": "22045",
+      "mortality": "47",
+      "mortalityCumulative": "8732"
+    },
+    {
+      "date": "1/25/21",
+      "cases": "2495",
+      "casesCumulative": "516452",
+      "hospitalizations": "73",
+      "hospitalizationsCumulative": "22118",
+      "mortality": "30",
+      "mortalityCumulative": "8762"
+    },
+    {
+      "date": "1/26/21",
+      "cases": "1855",
+      "casesCumulative": "518307",
+      "hospitalizations": "83",
+      "hospitalizationsCumulative": "22201",
+      "mortality": "36",
+      "mortalityCumulative": "8798"
+    },
+    {
+      "date": "1/27/21",
+      "cases": "1879",
+      "casesCumulative": "520186",
+      "hospitalizations": "65",
+      "hospitalizationsCumulative": "22266",
+      "mortality": "32",
+      "mortalityCumulative": "8830"
+    },
+    {
+      "date": "1/28/21",
+      "cases": "1789",
+      "casesCumulative": "521975",
+      "hospitalizations": "67",
+      "hospitalizationsCumulative": "22333",
+      "mortality": "37",
+      "mortalityCumulative": "8867"
+    },
+    {
+      "date": "1/29/21",
+      "cases": "1767",
+      "casesCumulative": "523742",
+      "hospitalizations": "54",
+      "hospitalizationsCumulative": "22387",
+      "mortality": "31",
+      "mortalityCumulative": "8898"
+    },
+    {
+      "date": "1/30/21",
+      "cases": "1021",
+      "casesCumulative": "524763",
+      "hospitalizations": "53",
+      "hospitalizationsCumulative": "22440",
+      "mortality": "27",
+      "mortalityCumulative": "8925"
+    },
+    {
+      "date": "1/31/21",
+      "cases": "740",
+      "casesCumulative": "525503",
+      "hospitalizations": "40",
+      "hospitalizationsCumulative": "22480",
+      "mortality": "27",
+      "mortalityCumulative": "8952"
+    },
+    {
+      "date": "2/1/21",
+      "cases": "2174",
+      "casesCumulative": "527677",
+      "hospitalizations": "66",
+      "hospitalizationsCumulative": "22546",
+      "mortality": "30",
+      "mortalityCumulative": "8982"
+    },
+    {
+      "date": "2/2/21",
+      "cases": "1653",
+      "casesCumulative": "529330",
+      "hospitalizations": "64",
+      "hospitalizationsCumulative": "22610",
+      "mortality": "20",
+      "mortalityCumulative": "9002"
+    },
+    {
+      "date": "2/3/21",
+      "cases": "1735",
+      "casesCumulative": "531065",
+      "hospitalizations": "59",
+      "hospitalizationsCumulative": "22669",
+      "mortality": "19",
+      "mortalityCumulative": "9021"
+    },
+    {
+      "date": "2/4/21",
+      "cases": "1444",
+      "casesCumulative": "532509",
+      "hospitalizations": "56",
+      "hospitalizationsCumulative": "22725",
+      "mortality": "20",
+      "mortalityCumulative": "9041"
+    },
+    {
+      "date": "2/5/21",
+      "cases": "1509",
+      "casesCumulative": "534018",
+      "hospitalizations": "52",
+      "hospitalizationsCumulative": "22777",
+      "mortality": "22",
+      "mortalityCumulative": "9063"
+    },
+    {
+      "date": "2/6/21",
+      "cases": "891",
+      "casesCumulative": "534909",
+      "hospitalizations": "49",
+      "hospitalizationsCumulative": "22826",
+      "mortality": "25",
+      "mortalityCumulative": "9088"
+    },
+    {
+      "date": "2/7/21",
+      "cases": "676",
+      "casesCumulative": "535585",
+      "hospitalizations": "44",
+      "hospitalizationsCumulative": "22870",
+      "mortality": "19",
+      "mortalityCumulative": "9107"
+    },
+    {
+      "date": "2/8/21",
+      "cases": "1752",
+      "casesCumulative": "537337",
+      "hospitalizations": "56",
+      "hospitalizationsCumulative": "22926",
+      "mortality": "19",
+      "mortalityCumulative": "9126"
+    },
+    {
+      "date": "2/9/21",
+      "cases": "1352",
+      "casesCumulative": "538689",
+      "hospitalizations": "39",
+      "hospitalizationsCumulative": "22965",
+      "mortality": "15",
+      "mortalityCumulative": "9141"
+    },
+    {
+      "date": "2/10/21",
+      "cases": "1259",
+      "casesCumulative": "539948",
+      "hospitalizations": "43",
+      "hospitalizationsCumulative": "23008",
+      "mortality": "21",
+      "mortalityCumulative": "9162"
+    },
+    {
+      "date": "2/11/21",
+      "cases": "1175",
+      "casesCumulative": "541123",
+      "hospitalizations": "46",
+      "hospitalizationsCumulative": "23054",
+      "mortality": "14",
+      "mortalityCumulative": "9176"
+    },
+    {
+      "date": "2/12/21",
+      "cases": "1131",
+      "casesCumulative": "542254",
+      "hospitalizations": "43",
+      "hospitalizationsCumulative": "23097",
+      "mortality": "16",
+      "mortalityCumulative": "9192"
+    },
+    {
+      "date": "2/13/21",
+      "cases": "719",
+      "casesCumulative": "542973",
+      "hospitalizations": "33",
+      "hospitalizationsCumulative": "23130",
+      "mortality": "17",
+      "mortalityCumulative": "9209"
+    },
+    {
+      "date": "2/14/21",
+      "cases": "484",
+      "casesCumulative": "543457",
+      "hospitalizations": "39",
+      "hospitalizationsCumulative": "23169",
+      "mortality": "21",
+      "mortalityCumulative": "9230"
+    },
+    {
+      "date": "2/15/21",
+      "cases": "1307",
+      "casesCumulative": "544764",
+      "hospitalizations": "38",
+      "hospitalizationsCumulative": "23207",
+      "mortality": "18",
+      "mortalityCumulative": "9248"
+    },
+    {
+      "date": "2/16/21",
+      "cases": "1139",
+      "casesCumulative": "545903",
+      "hospitalizations": "42",
+      "hospitalizationsCumulative": "23249",
+      "mortality": "8",
+      "mortalityCumulative": "9256"
+    },
+    {
+      "date": "2/17/21",
+      "cases": "1217",
+      "casesCumulative": "547120",
+      "hospitalizations": "47",
+      "hospitalizationsCumulative": "23296",
+      "mortality": "9",
+      "mortalityCumulative": "9265"
+    },
+    {
+      "date": "2/18/21",
+      "cases": "1008",
+      "casesCumulative": "548128",
+      "hospitalizations": "60",
+      "hospitalizationsCumulative": "23356",
+      "mortality": "10",
+      "mortalityCumulative": "9275"
+    },
+    {
+      "date": "2/19/21",
+      "cases": "1095",
+      "casesCumulative": "549223",
+      "hospitalizations": "46",
+      "hospitalizationsCumulative": "23402",
+      "mortality": "11",
+      "mortalityCumulative": "9286"
+    },
+    {
+      "date": "2/20/21",
+      "cases": "693",
+      "casesCumulative": "549916",
+      "hospitalizations": "22",
+      "hospitalizationsCumulative": "23424",
+      "mortality": "14",
+      "mortalityCumulative": "9300"
+    },
+    {
+      "date": "2/21/21",
+      "cases": "529",
+      "casesCumulative": "550445",
+      "hospitalizations": "32",
+      "hospitalizationsCumulative": "23456",
+      "mortality": "11",
+      "mortalityCumulative": "9311"
+    },
+    {
+      "date": "2/22/21",
+      "cases": "1413",
+      "casesCumulative": "551858",
+      "hospitalizations": "41",
+      "hospitalizationsCumulative": "23497",
+      "mortality": "8",
+      "mortalityCumulative": "9319"
+    },
+    {
+      "date": "2/23/21",
+      "cases": "1266",
+      "casesCumulative": "553124",
+      "hospitalizations": "39",
+      "hospitalizationsCumulative": "23536",
+      "mortality": "10",
+      "mortalityCumulative": "9329"
+    },
+    {
+      "date": "2/24/21",
+      "cases": "1082",
+      "casesCumulative": "554206",
+      "hospitalizations": "46",
+      "hospitalizationsCumulative": "23582",
+      "mortality": "7",
+      "mortalityCumulative": "9336"
+    },
+    {
+      "date": "2/25/21",
+      "cases": "1123",
+      "casesCumulative": "555329",
+      "hospitalizations": "46",
+      "hospitalizationsCumulative": "23628",
+      "mortality": "9",
+      "mortalityCumulative": "9345"
+    },
+    {
+      "date": "2/26/21",
+      "cases": "1082",
+      "casesCumulative": "556411",
+      "hospitalizations": "33",
+      "hospitalizationsCumulative": "23661",
+      "mortality": "7",
+      "mortalityCumulative": "9352"
+    },
+    {
+      "date": "2/27/21",
+      "cases": "728",
+      "casesCumulative": "557139",
+      "hospitalizations": "29",
+      "hospitalizationsCumulative": "23690",
+      "mortality": "9",
+      "mortalityCumulative": "9361"
+    },
+    {
+      "date": "2/28/21",
+      "cases": "551",
+      "casesCumulative": "557690",
+      "hospitalizations": "29",
+      "hospitalizationsCumulative": "23719",
+      "mortality": "6",
+      "mortalityCumulative": "9367"
+    },
+    {
+      "date": "3/1/21",
+      "cases": "1421",
+      "casesCumulative": "559111",
+      "hospitalizations": "41",
+      "hospitalizationsCumulative": "23760",
+      "mortality": "9",
+      "mortalityCumulative": "9376"
+    },
+    {
+      "date": "3/2/21",
+      "cases": "1236",
+      "casesCumulative": "560347",
+      "hospitalizations": "51",
+      "hospitalizationsCumulative": "23811",
+      "mortality": "9",
+      "mortalityCumulative": "9385"
+    },
+    {
+      "date": "3/3/21",
+      "cases": "1245",
+      "casesCumulative": "561592",
+      "hospitalizations": "54",
+      "hospitalizationsCumulative": "23865",
+      "mortality": "7",
+      "mortalityCumulative": "9392"
+    },
+    {
+      "date": "3/4/21",
+      "cases": "1065",
+      "casesCumulative": "562657",
+      "hospitalizations": "38",
+      "hospitalizationsCumulative": "23903",
+      "mortality": "8",
+      "mortalityCumulative": "9400"
+    },
+    {
+      "date": "3/5/21",
+      "cases": "1278",
+      "casesCumulative": "563935",
+      "hospitalizations": "48",
+      "hospitalizationsCumulative": "23951",
+      "mortality": "7",
+      "mortalityCumulative": "9407"
+    },
+    {
+      "date": "3/6/21",
+      "cases": "768",
+      "casesCumulative": "564703",
+      "hospitalizations": "37",
+      "hospitalizationsCumulative": "23988",
+      "mortality": "7",
+      "mortalityCumulative": "9414"
+    },
+    {
+      "date": "3/7/21",
+      "cases": "583",
+      "casesCumulative": "565286",
+      "hospitalizations": "39",
+      "hospitalizationsCumulative": "24027",
+      "mortality": "7",
+      "mortalityCumulative": "9421"
+    },
+    {
+      "date": "3/8/21",
+      "cases": "1702",
+      "casesCumulative": "566988",
+      "hospitalizations": "56",
+      "hospitalizationsCumulative": "24083",
+      "mortality": "9",
+      "mortalityCumulative": "9430"
+    },
+    {
+      "date": "3/9/21",
+      "cases": "1387",
+      "casesCumulative": "568375",
+      "hospitalizations": "37",
+      "hospitalizationsCumulative": "24120",
+      "mortality": "9",
+      "mortalityCumulative": "9439"
+    },
+    {
+      "date": "3/10/21",
+      "cases": "1395",
+      "casesCumulative": "569770",
+      "hospitalizations": "47",
+      "hospitalizationsCumulative": "24167",
+      "mortality": "11",
+      "mortalityCumulative": "9450"
+    },
+    {
+      "date": "3/11/21",
+      "cases": "1339",
+      "casesCumulative": "571109",
+      "hospitalizations": "41",
+      "hospitalizationsCumulative": "24208",
+      "mortality": "11",
+      "mortalityCumulative": "9461"
+    },
+    {
+      "date": "3/12/21",
+      "cases": "1344",
+      "casesCumulative": "572453",
+      "hospitalizations": "45",
+      "hospitalizationsCumulative": "24253",
+      "mortality": "7",
+      "mortalityCumulative": "9468"
+    },
+    {
+      "date": "3/13/21",
+      "cases": "928",
+      "casesCumulative": "573381",
+      "hospitalizations": "39",
+      "hospitalizationsCumulative": "24292",
+      "mortality": "10",
+      "mortalityCumulative": "9478"
+    },
+    {
+      "date": "3/14/21",
+      "cases": "708",
+      "casesCumulative": "574089",
+      "hospitalizations": "46",
+      "hospitalizationsCumulative": "24338",
+      "mortality": "8",
+      "mortalityCumulative": "9486"
+    },
+    {
+      "date": "3/15/21",
+      "cases": "1922",
+      "casesCumulative": "576011",
+      "hospitalizations": "60",
+      "hospitalizationsCumulative": "24398",
+      "mortality": "8",
+      "mortalityCumulative": "9494"
+    },
+    {
+      "date": "3/16/21",
+      "cases": "1646",
+      "casesCumulative": "577657",
+      "hospitalizations": "46",
+      "hospitalizationsCumulative": "24444",
+      "mortality": "10",
+      "mortalityCumulative": "9504"
+    },
+    {
+      "date": "3/17/21",
+      "cases": "1829",
+      "casesCumulative": "579486",
+      "hospitalizations": "40",
+      "hospitalizationsCumulative": "24484",
+      "mortality": "13",
+      "mortalityCumulative": "9517"
+    },
+    {
+      "date": "3/18/21",
+      "cases": "1644",
+      "casesCumulative": "581130",
+      "hospitalizations": "44",
+      "hospitalizationsCumulative": "24528",
+      "mortality": "8",
+      "mortalityCumulative": "9525"
+    },
+    {
+      "date": "3/19/21",
+      "cases": "1547",
+      "casesCumulative": "582677",
+      "hospitalizations": "43",
+      "hospitalizationsCumulative": "24571",
+      "mortality": "8",
+      "mortalityCumulative": "9533"
+    },
+    {
+      "date": "3/20/21",
+      "cases": "1111",
+      "casesCumulative": "583788",
+      "hospitalizations": "31",
+      "hospitalizationsCumulative": "24602",
+      "mortality": "2",
+      "mortalityCumulative": "9535"
+    },
+    {
+      "date": "3/21/21",
+      "cases": "782",
+      "casesCumulative": "584570",
+      "hospitalizations": "31",
+      "hospitalizationsCumulative": "24633",
+      "mortality": "6",
+      "mortalityCumulative": "9541"
+    },
+    {
+      "date": "3/22/21",
+      "cases": "2217",
+      "casesCumulative": "586787",
+      "hospitalizations": "40",
+      "hospitalizationsCumulative": "24673",
+      "mortality": "3",
+      "mortalityCumulative": "9544"
+    },
+    {
+      "date": "3/23/21",
+      "cases": "1329",
+      "casesCumulative": "588116",
+      "hospitalizations": "8",
+      "hospitalizationsCumulative": "24681",
+      "mortality": "7",
+      "mortalityCumulative": "9551"
+    },
+    {
+      "date": "3/24/21",
+      "cases": "2",
+      "casesCumulative": "588118",
+      "hospitalizations": "0",
+      "hospitalizationsCumulative": "24681",
+      "mortality": "1",
+      "mortalityCumulative": "9552"
+    }
+  ]
+}
