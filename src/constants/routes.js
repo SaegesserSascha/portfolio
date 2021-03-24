@@ -1,7 +1,7 @@
 import { default as About } from "../pages/about/About";
 import { default as Animations } from "../pages/animations/Animations";
 import { default as Forms } from "../pages/forms/Forms";
-import { default as Graphs } from "../pages/graphs/Graphs";
+import { default as Charts } from "../pages/charts/Charts";
 import { default as Impressum } from "../pages/impressum/Impressum";
 import { BsPersonFill } from "react-icons/bs";
 import { RiMovieLine } from "react-icons/ri";
@@ -29,9 +29,9 @@ export const routes = [
     icon: <AiOutlineForm size={28} />
   },
   {
-    path: "/graphs",
-    component: Graphs,
-    name: "Graphs",
+    path: "/charts",
+    component: Charts,
+    name: "Charts",
     icon: <GoGraph size={28} />
   },
   {
