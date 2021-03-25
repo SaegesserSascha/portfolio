@@ -17,6 +17,6 @@ $content-margin: 1em;
   width: calc(100% - 2 * #{$content-margin});
 
   @include mq(l) {
-    max-width: 1000px;
+    max-width: 1200px;
   }
 }

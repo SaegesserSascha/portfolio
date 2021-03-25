@@ -1,6 +1,8 @@
 @import "./sass/reset";
 @import "./sass/colors";
 @import "./sass/breakpoints";
+@import "./sass/typography";
+@import "./sass/mixins";
 
 .App {
   background-color: $clr-neutral-dark;
