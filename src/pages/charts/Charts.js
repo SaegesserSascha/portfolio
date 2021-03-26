@@ -1,6 +1,6 @@
 import "./charts.scss";
 import React, { useState } from "react";
-import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import data from "data/covid19switzerland.json";
 
 export default function Graphs() {
@@ -10,6 +10,7 @@ export default function Graphs() {
     "allDays": data.length
   });
 
+  const CHARTHEIGHT = 200; // In px
   const [timeRange, setTimeRange] = useState(ranges["14Days"]);
 
   function getKeys() {
@@ -46,26 +47,69 @@ export default function Graphs() {
     return filteredData;
   }
 
+  const formatDateLabel = (filteredData) => {
+    console.log(filteredData.date);
+    const values = filteredData.date.split(".");
+    return `${values[0]}.${values[1]}`;
+  }
+
+  function shouldDisplay(el) {
+    switch (el) {
+      case "cases":
+      case "hospitalizations":
+      case "mortality":
+        return true;
+      default:
+        return false;
+    }
+  }
+
+  const CustomTooltip = ({ active, payload, label }) => {
+    console.log(payload[0]);
+    if (active && payload && payload.length) {
+      return (
+        <div className="custom-tooltip">
+          <p className="value">{payload[0].value}</p>
+          <p className="label">{formatAndTranslateCategory(payload[0].name)}</p>
+          <p className="date">{payload[0].payload.date}</p>
+        </div>
+      );
+    }
+    return null;
+  };
+
   const charts = getKeys().map(el => {
-    return (
-      <div className="chart-container">
-        <h4 className="category">{formatAndTranslateCategory(el)}</h4>
-        <ResponsiveContainer className="chart" width="100%" height={250} key={el} >
-          <BarChart
-            data={filteredData()}
+    if (shouldDisplay(el)) {
+      return (
+        <div className="chart-container">
+          <h4 className="category">{formatAndTranslateCategory(el)}</h4>
+          <ResponsiveContainer
+            className="chart"
+            width="100%"
+            height={CHARTHEIGHT}
+            key={el}
           >
-            <XAxis dataKey="date"></XAxis>
-            <YAxis type="number" />
-            <Tooltip wrapperStyle={{ backgroundColor: "red" }} />
-            <Bar isAnimationActive={false}
-              dataKey={el}
-              fill="#ff7043"
+            <BarChart
+              data={filteredData()}
             >
-            </Bar>
-          </BarChart>
-        </ResponsiveContainer>
-      </div>
-    );
+              <YAxis mirror={true} interval="preserveEnd" tickCount={3} />
+              <XAxis tick={false} height={1} />
+              <Tooltip content={<CustomTooltip />} />
+              <Bar
+                isAnimationActive={false}
+                dataKey={el}
+                fill="#ff7043"
+              >
+              </Bar>
+            </BarChart>
+          </ResponsiveContainer>
+          <div className="labels">
+            <p>{filteredData()[0].date}</p>
+            <p>{filteredData()[filteredData().length - 1].date}</p>
+          </div>
+        </div>
+      );
+    }
   });
 
   const handleSelect = () => {
