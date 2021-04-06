@@ -3544,14 +3544,5 @@
     "hospitalizationsCumulative": 24681,
     "mortality": 7,
     "mortalityCumulative": 9551
-  },
-  {
-    "date": "24.03.2021",
-    "cases": 2,
-    "casesCumulative": 588118,
-    "hospitalizations": 0,
-    "hospitalizationsCumulative": 24681,
-    "mortality": 1,
-    "mortalityCumulative": 9552
   }
 ]

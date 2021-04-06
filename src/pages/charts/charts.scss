@@ -9,6 +9,7 @@ $font-size: 1.25rem;
   background-color: $clr-neutral-normal;
   border: none;
   color: $clr-white;
+  border-radius: 4px;
   font-size: $font-size;
   outline: none;
   padding: .75em;
@@ -29,6 +30,15 @@ $font-size: 1.25rem;
   }
 }
 
+.sticky {
+  border-radius: 0;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  position: sticky;
+  top: -1px;
+  transition: .25s;
+  z-index: 100;
+}
+
 .bar-chart-wrapper {
   padding: 1em 0 0 0;
   display: grid;
@@ -43,7 +53,7 @@ $font-size: 1.25rem;
 
 .chart-container {
   background-color: $clr-neutral-normal;
-  border-radius: 8px;
+  border-radius: 4px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;

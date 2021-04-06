@@ -2,6 +2,7 @@ import "./charts.scss";
 import React, { useState } from "react";
 import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import data from "data/covid19switzerland.json";
+import ChartInformation from "components/chartInformation/ChartInformation";
 
 export default function Graphs() {
   const ranges = Object.freeze({
@@ -12,6 +13,7 @@ export default function Graphs() {
 
   const CHARTHEIGHT = 200; // In px
   const [timeRange, setTimeRange] = useState(ranges["14Days"]);
+  const [isSticky, setIsSticky] = useState(false);
 
   function getKeys() {
     let keys = [];
@@ -64,8 +66,15 @@ export default function Graphs() {
     }
   }
 
+  window.onscroll = () => {
+    if (window.pageYOffset > 72) {
+      setIsSticky(true);
+    } else {
+      setIsSticky(false);
+    }
+  }
+
   const CustomTooltip = ({ active, payload, label }) => {
-    console.log(payload[0]);
     if (active && payload && payload.length) {
       return (
         <div className="custom-tooltip">
@@ -83,6 +92,7 @@ export default function Graphs() {
       return (
         <div className="chart-container">
           <h4 className="category">{formatAndTranslateCategory(el)}</h4>
+          <ChartInformation category={el} data={filteredData()} />
           <ResponsiveContainer
             className="chart"
             width="100%"
@@ -118,7 +128,11 @@ export default function Graphs() {
 
   return (
     <div>
-      <select className="time-range" name="timeRange" id="timeRange" onChange={handleSelect}>
+      <select
+        className={`time-range ${isSticky ? "sticky" : ""}`}
+          name="timeRange"
+          id="timeRange"
+          onChange={handleSelect}>
         <option value={ranges["14Days"]}>14 Tage</option>
         <option value={ranges["28Days"]}>28 Tage</option>
         <option value={ranges.allDays}>Gesamter Zeitraum</option>
