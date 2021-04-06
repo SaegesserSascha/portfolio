@@ -6,7 +6,7 @@
 
   @include mq(s) {
     height: inherit;
-    width: 64px;
+    min-width: 64px;
   }
 
   & ul {
@@ -15,6 +15,7 @@
 
     @include mq(s) {
       flex-direction: column;
+      position: fixed;
     }
   }
   
@@ -92,9 +93,14 @@
 
 .inflated-main-nav {
   height: 100vh;
+  position: fixed;
+  z-index: 1000000;
   width: 100vw;
 
   @include mq(s) {
+    height: initial;
+    min-width: 256px;
+    position: initial;
     width: 256px;
     
     & li {
