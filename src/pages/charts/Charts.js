@@ -1,6 +1,6 @@
 import "./charts.scss";
-import React, { useState } from "react";
-import { Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
+import React, { useEffect, useRef, useState } from "react";
+import { Bar, BarChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 import data from "data/covid19switzerland.json";
 import ChartInformation from "components/chartInformation/ChartInformation";
 
@@ -14,6 +14,7 @@ export default function Graphs() {
   const CHARTHEIGHT = 200; // In px
   const [timeRange, setTimeRange] = useState(ranges["14Days"]);
   const [isSticky, setIsSticky] = useState(false);
+  const timeRangeRef = useRef(null);
 
   function getKeys() {
     let keys = [];
@@ -29,16 +30,10 @@ export default function Graphs() {
     switch (category) {
       case "cases":
         return "Laborbestätigte Fälle";
-      case "casesCumulative":
-        return "Laborbestätigte Fälle insgesamt";
       case "hospitalizations":
         return "Laborbestätigte Hospitalisationen";
-      case "hospitalizationsCumulative":
-        return "Laborbestätigte Hospitalisationen insgesamt";
       case "mortality":
         return "Laborbestätigte Todesfälle";
-      case "mortalityCumulative":
-        return "Laborbestätigte Hospitalisationen insgesamt";
       default:
         return undefined;
     }
@@ -47,12 +42,6 @@ export default function Graphs() {
   const filteredData = () => {
     let filteredData = [...data].splice(data.length - timeRange, timeRange);
     return filteredData;
-  }
-
-  const formatDateLabel = (filteredData) => {
-    console.log(filteredData.date);
-    const values = filteredData.date.split(".");
-    return `${values[0]}.${values[1]}`;
   }
 
   function shouldDisplay(el) {
@@ -66,15 +55,22 @@ export default function Graphs() {
     }
   }
 
-  window.onscroll = () => {
-    if (window.pageYOffset > 72) {
-      setIsSticky(true);
-    } else {
-      setIsSticky(false);
-    }
-  }
+  useEffect(() => {
+    function onScroll() {
+      let timeRangeYOffset = timeRangeRef.current.offsetTop;
 
-  const CustomTooltip = ({ active, payload, label }) => {
+      if (window.pageYOffset > timeRangeYOffset && !isSticky) {
+        setIsSticky(true);
+      } else if (window.pageYOffset <= timeRangeYOffset && isSticky) {
+        setIsSticky(false);
+      }
+    }
+    window.addEventListener("scroll", onScroll);
+
+    return () => window.removeEventListener("scroll", onScroll);
+  }, [isSticky])
+
+  const CustomTooltip = ({ active, payload }) => {
     if (active && payload && payload.length) {
       return (
         <div className="custom-tooltip">
@@ -106,7 +102,6 @@ export default function Graphs() {
               <XAxis tick={false} height={1} />
               <Tooltip content={<CustomTooltip />} />
               <Bar
-                isAnimationActive={false}
                 dataKey={el}
                 fill="#ff7043"
               >
@@ -130,9 +125,10 @@ export default function Graphs() {
     <div>
       <select
         className={`time-range ${isSticky ? "sticky" : ""}`}
-          name="timeRange"
-          id="timeRange"
-          onChange={handleSelect}>
+        name="timeRange"
+        id="timeRange"
+        ref={timeRangeRef}
+        onChange={handleSelect}>
         <option value={ranges["14Days"]}>14 Tage</option>
         <option value={ranges["28Days"]}>28 Tage</option>
         <option value={ranges.allDays}>Gesamter Zeitraum</option>

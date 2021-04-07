@@ -13,25 +13,25 @@ export const routes = [
   {
     path: "/about",
     component: About,
-    name: "About Me",
+    name: "Über mich",
     icon: <BsPersonFill size={28} />
   },
   {
     path: "/animations",
     component: Animations,
-    name: "Animations",
+    name: "Animationen",
     icon: <RiMovieLine size={28} />
   },
   {
     path: "/forms",
     component: Forms,
-    name: "Forms",
+    name: "Formulare",
     icon: <AiOutlineForm size={28} />
   },
   {
     path: "/charts",
     component: Charts,
-    name: "Charts",
+    name: "Diagramme",
     icon: <GoGraph size={28} />
   },
   {

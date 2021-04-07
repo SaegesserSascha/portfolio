@@ -3,6 +3,7 @@ import "../navigation.scss";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 import { MdNavigateNext, MdNavigateBefore } from "react-icons/md";
 import useWindowDimensions from "hooks/useWindowDimensions";
+import { useLocation } from "react-router";
 
 export default function NavigationToggler({ collapser }) {
   const [isCollapsed, setIsCollapsed] = useState(true);
@@ -10,6 +11,7 @@ export default function NavigationToggler({ collapser }) {
   const BREAKPOINT_SMALL = 576;
   const ICONSIZE_LARGE = 56;
   const ICONSIZE_SMALL = 42;
+  const location = useLocation();
 
   function toggleMenu() {
     setIsCollapsed(!isCollapsed);
@@ -18,6 +20,12 @@ export default function NavigationToggler({ collapser }) {
   useEffect(() => {
     collapser(isCollapsed);
   }, [isCollapsed, collapser]);
+
+  useEffect(() => {
+    if (width < BREAKPOINT_SMALL) {
+      setIsCollapsed(true);
+    }
+  }, [location])
 
   function getInflateIcon() {
     if (width >= BREAKPOINT_SMALL) {

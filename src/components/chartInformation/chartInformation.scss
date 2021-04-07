@@ -2,6 +2,7 @@
 
 .chart-information-wrapper {
   color: $clr-white-67;
+  margin-bottom: 2em;
 
   & > :not(:last-child) {
     border-bottom: 1px solid $clr-white-33;
@@ -9,10 +10,8 @@
     padding-bottom: .75em;
   }
 
-  margin-bottom: 2em;
-}
-
-.difference-wrapper {
-  display: flex;
-  justify-content: space-between;
+  & > div {
+    display: flex;
+    justify-content: space-between;
+  }
 }

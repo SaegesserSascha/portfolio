@@ -5,7 +5,7 @@ import { routes } from "constants/routes";
 export default function Content() {
   return (
     <div className="content-wrapper">
-      <div className="content">
+      <div className="content" id="content">
         {routes.map(({ path, component }, key) => {
           return <Route key={key} path={path} component={component} />
         })}
