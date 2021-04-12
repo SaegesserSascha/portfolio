@@ -27,17 +27,17 @@ export default function ChartInformation({ category, data }) {
     <div className="chart-information-wrapper">
       <div>
         <p>Differenz zum Vortag</p>
-        <p>{dailyDifference}</p>
+        <p className="value">{dailyDifference}</p>
       </div>
 
       <div>
         <p>{`Total seit ${data[0].date}`}</p>
-        <p>{filteredDifference}</p>
+        <p className="value">{filteredDifference}</p>
       </div>
 
       <div>
         <p>Pro 100'000 Einwohner/innen</p>
-        <p>{per100kResidents()}</p>
+        <p className="value">{per100kResidents()}</p>
       </div>
     </div>
   );

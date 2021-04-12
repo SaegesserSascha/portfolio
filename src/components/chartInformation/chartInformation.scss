@@ -14,4 +14,8 @@
     display: flex;
     justify-content: space-between;
   }
+
+  & .value {
+    color: $clr-white-90;
+  }
 }
