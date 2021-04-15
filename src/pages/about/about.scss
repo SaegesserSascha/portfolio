@@ -21,7 +21,7 @@ $img-corner: 2em;
   display: flex;
   flex-direction: column;
 
-  @include mq(s) {
+  @include mq(m) {
     flex-direction: row;
   }
 }
@@ -31,7 +31,7 @@ $img-corner: 2em;
   flex-direction: column;
   flex-grow: 1;
 
-  @include mq(s) {
+  @include mq(m) {
     align-self: center;
     order: 2;
   }
@@ -54,7 +54,7 @@ $img-corner: 2em;
     width: 90%;
     white-space: nowrap;
 
-    @include mq(s) {
+    @include mq(m) {
       left: 0;
     }
   }
@@ -80,7 +80,7 @@ $img-corner: 2em;
     width: 90%;
     white-space: nowrap;
 
-    @include mq(s) {
+    @include mq(m) {
       right: 0;
     }
   }
@@ -91,7 +91,7 @@ $img-corner: 2em;
   margin: 1em 0;
   justify-content: center;
 
-  @include mq(s) {
+  @include mq(m) {
     margin-top: 0;
   }
 
@@ -112,7 +112,7 @@ $img-corner: 2em;
     object-fit: cover;
     height: 300px;
 
-    @include mq(s) {
+    @include mq(m) {
       max-height: 200px;
       max-width: 200px;
     }
