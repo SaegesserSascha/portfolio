@@ -1,0 +1,31 @@
+@import "/src/sass/breakpoints";
+@import "/src/sass/colors";
+
+.education-row-wrapper {
+  display: grid;
+  grid-template-columns: auto;
+  row-gap: .5em;
+
+  @include mq(m) {
+    grid-template-columns: 140px 20px auto;
+  }
+
+  & li {
+      margin-left: .3em;
+
+      &::marker {
+        content: "\002D";
+      } 
+
+      & > p {
+        position: relative;
+        left: .25em;
+      }
+  }
+}
+
+.description-wrapper {
+  & > .accent {
+    color: $clr-accent-normal;
+  }
+}

@@ -6,9 +6,13 @@ $img-corner: 2em;
 
 .section-wrapper {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
   grid-auto-rows: auto;
   gap: 1em 1em;
+
+  @include mq(m) {
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  }
 
   & > .section {
     background: $clr-neutral-normal;
@@ -106,15 +110,8 @@ $img-corner: 2em;
       #{$img-corner} 100%,
       0 calc(100% - #{$img-corner})
     );
-    max-width: 300px;
-    min-width: 200px;
-    width: 100%;
+    width: 200px;
     object-fit: cover;
-    height: 300px;
-
-    @include mq(m) {
-      max-height: 200px;
-      max-width: 200px;
-    }
+    height: 200px;
   }
 }
